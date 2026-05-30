@@ -24,6 +24,28 @@
         ],
         [
             1,
+            "983.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
+            "MITRA NUSANTARA POWERINDO, PT",
+            "PEMBANGKITAN",
+            "2026-05-29",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-"
+        ],
+        [
+            2,
+            "984.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
+            "MITRA NUSANTARA POWERINDO, PT",
+            "PEMBANGKITAN",
+            "2026-05-29",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-"
+        ],
+        [
+            3,
             "1013.KR/SERAGAM KERJA-KAL2/2026",
             "ZAIN PERKASA INDONESIA, PT",
             "PEMBANGKITAN",
@@ -34,7 +56,7 @@
             "-"
         ],
         [
-            2,
+            4,
             "1145.KR/TANGGA-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -45,7 +67,7 @@
             "-"
         ],
         [
-            3,
+            5,
             "1146.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -56,7 +78,7 @@
             "-"
         ],
         [
-            4,
+            6,
             "1154.KR/ALAT UKUR-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -67,7 +89,7 @@
             "-"
         ],
         [
-            5,
+            7,
             "1147.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -78,7 +100,7 @@
             "-"
         ],
         [
-            6,
+            8,
             "1067.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -89,7 +111,7 @@
             "-"
         ],
         [
-            7,
+            9,
             "1079.KR/STICK 20 KV-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -100,7 +122,7 @@
             "-"
         ],
         [
-            8,
+            10,
             "1072.KR/STICK 20 KV-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -111,18 +133,18 @@
             "-"
         ],
         [
-            9,
+            11,
             "664.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
             "2026-05-06",
-            "-",
-            "-",
+            "2026-05-29",
+            "2026-05-29",
             "Acc Vendor",
             "-"
         ],
         [
-            10,
+            12,
             "861.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -133,7 +155,7 @@
             "-"
         ],
         [
-            11,
+            13,
             "862.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -144,7 +166,7 @@
             "-"
         ],
         [
-            12,
+            14,
             "829.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -155,7 +177,7 @@
             "-"
         ],
         [
-            13,
+            15,
             "830.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -166,7 +188,7 @@
             "-"
         ],
         [
-            14,
+            16,
             "1030.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -177,7 +199,7 @@
             "-"
         ],
         [
-            15,
+            17,
             "1029.KR/ALAT UKUR-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -188,7 +210,7 @@
             "-"
         ],
         [
-            16,
+            18,
             "940.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "PELAYANAN PELANGGAN",
@@ -199,7 +221,7 @@
             "-"
         ],
         [
-            17,
+            19,
             "939.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -210,7 +232,7 @@
             "-"
         ],
         [
-            18,
+            20,
             "938.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "PELAYANAN PELANGGAN",
@@ -221,7 +243,7 @@
             "-"
         ],
         [
-            19,
+            21,
             "941.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -232,7 +254,7 @@
             "-"
         ],
         [
-            20,
+            22,
             "942.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -243,7 +265,7 @@
             "-"
         ],
         [
-            21,
+            23,
             "943.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -254,7 +276,7 @@
             "-"
         ],
         [
-            22,
+            24,
             "944.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -265,7 +287,7 @@
             "-"
         ],
         [
-            23,
+            25,
             "945.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -276,7 +298,7 @@
             "-"
         ],
         [
-            24,
+            26,
             "867.KR/TERMOVISION DAN ULTRASOUND-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -287,7 +309,7 @@
             "-"
         ],
         [
-            25,
+            27,
             "906.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -298,7 +320,7 @@
             "-"
         ],
         [
-            26,
+            28,
             "907.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -309,7 +331,7 @@
             "-"
         ],
         [
-            27,
+            29,
             "919.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -320,7 +342,7 @@
             "-"
         ],
         [
-            28,
+            30,
             "920.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -331,7 +353,7 @@
             "-"
         ],
         [
-            29,
+            31,
             "922.KR/SEPATU SAFETY-KAL2/2026",
             "KAWAN LAMA SEJAHTERA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -342,7 +364,7 @@
             "-"
         ],
         [
-            30,
+            32,
             "923.KR/SEPATU SAFETY-KAL2/2026",
             "KAWAN LAMA SEJAHTERA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -353,7 +375,7 @@
             "-"
         ],
         [
-            31,
+            33,
             "863.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -364,7 +386,7 @@
             "-"
         ],
         [
-            32,
+            34,
             "864.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -375,7 +397,7 @@
             "-"
         ],
         [
-            33,
+            35,
             "866.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -386,7 +408,7 @@
             "-"
         ],
         [
-            34,
+            36,
             "887.KR/SEPATU SAFETY-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "PELAYANAN PELANGGAN",
@@ -397,7 +419,7 @@
             "-"
         ],
         [
-            35,
+            37,
             "888.KR/SEPATU SAFETY-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "PELAYANAN PELANGGAN",
@@ -408,7 +430,7 @@
             "-"
         ],
         [
-            36,
+            38,
             "889.KR/SEPATU SAFETY-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "PELAYANAN PELANGGAN",
@@ -419,7 +441,7 @@
             "-"
         ],
         [
-            37,
+            39,
             "738.KR/HELM SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -430,7 +452,7 @@
             "-"
         ],
         [
-            38,
+            40,
             "865.KR/STICK 20 KV-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -441,7 +463,7 @@
             "-"
         ],
         [
-            39,
+            41,
             "893.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -452,7 +474,7 @@
             "-"
         ],
         [
-            40,
+            42,
             "894.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -463,7 +485,7 @@
             "-"
         ],
         [
-            41,
+            43,
             "895.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -474,7 +496,7 @@
             "-"
         ],
         [
-            42,
+            44,
             "834.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -485,7 +507,7 @@
             "-"
         ],
         [
-            43,
+            45,
             "835.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -496,7 +518,7 @@
             "-"
         ],
         [
-            44,
+            46,
             "836.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -507,7 +529,7 @@
             "-"
         ],
         [
-            45,
+            47,
             "768.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "PEMBANGKITAN",
@@ -518,7 +540,7 @@
             "-"
         ],
         [
-            46,
+            48,
             "789.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "PEMBANGKITAN",
@@ -529,7 +551,7 @@
             "-"
         ],
         [
-            47,
+            49,
             "734.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -540,7 +562,7 @@
             "-"
         ],
         [
-            48,
+            50,
             "735.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -551,7 +573,7 @@
             "-"
         ],
         [
-            49,
+            51,
             "739.KR/HELM SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -562,7 +584,7 @@
             "-"
         ],
         [
-            50,
+            52,
             "832.KR/HELM SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -573,7 +595,7 @@
             "-"
         ],
         [
-            51,
+            53,
             "833.KR/HELM SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -584,7 +606,7 @@
             "-"
         ],
         [
-            52,
+            54,
             "737.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -595,7 +617,7 @@
             "-"
         ],
         [
-            53,
+            55,
             "543.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "DISTRIBUSI",
@@ -606,7 +628,7 @@
             "-"
         ],
         [
-            54,
+            56,
             "544.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "DISTRIBUSI",
@@ -617,7 +639,7 @@
             "-"
         ],
         [
-            55,
+            57,
             "545.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "DISTRIBUSI",
@@ -628,7 +650,7 @@
             "-"
         ],
         [
-            56,
+            58,
             "736.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -639,7 +661,7 @@
             "-"
         ],
         [
-            57,
+            59,
             "581.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -650,7 +672,7 @@
             "-"
         ],
         [
-            58,
+            60,
             "590.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -661,7 +683,7 @@
             "-"
         ],
         [
-            59,
+            61,
             "607.KR/STICK 20 KV-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -672,7 +694,7 @@
             "-"
         ],
         [
-            60,
+            62,
             "471.KR/TERMOVISION DAN ULTRASOUND-KAL2/2026",
             "TEKNIKA PESONA KAHAYAN, PT.",
             "DISTRIBUSI",
@@ -683,7 +705,7 @@
             "-"
         ],
         [
-            61,
+            63,
             "683.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -694,7 +716,7 @@
             "-"
         ],
         [
-            62,
+            64,
             "684.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -705,7 +727,7 @@
             "-"
         ],
         [
-            63,
+            65,
             "685.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -716,7 +738,7 @@
             "-"
         ],
         [
-            64,
+            66,
             "686.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -727,7 +749,7 @@
             "-"
         ],
         [
-            65,
+            67,
             "387.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -738,7 +760,7 @@
             "-"
         ],
         [
-            66,
+            68,
             "513.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -749,7 +771,7 @@
             "-"
         ],
         [
-            67,
+            69,
             "514.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -760,7 +782,7 @@
             "-"
         ],
         [
-            68,
+            70,
             "515.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -771,7 +793,7 @@
             "-"
         ],
         [
-            69,
+            71,
             "248.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -782,7 +804,7 @@
             "-"
         ],
         [
-            70,
+            72,
             "420.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -793,7 +815,7 @@
             "-"
         ],
         [
-            71,
+            73,
             "421.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -804,7 +826,7 @@
             "-"
         ],
         [
-            72,
+            74,
             "441.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -815,7 +837,7 @@
             "-"
         ],
         [
-            73,
+            75,
             "324.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "PEMBANGKITAN",
@@ -826,7 +848,7 @@
             "-"
         ],
         [
-            74,
+            76,
             "440.KR/TANGGA-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "PEMBANGKITAN",
@@ -837,7 +859,7 @@
             "-"
         ],
         [
-            75,
+            77,
             "423.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -848,7 +870,7 @@
             "-"
         ],
         [
-            76,
+            78,
             "424.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -859,7 +881,7 @@
             "-"
         ],
         [
-            77,
+            79,
             "425.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -870,7 +892,7 @@
             "-"
         ],
         [
-            78,
+            80,
             "169.KR/FAST MOVING KAL-2-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -881,7 +903,7 @@
             "-"
         ],
         [
-            79,
+            81,
             "172.KR/FAST MOVING KAL-2-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -892,7 +914,7 @@
             "-"
         ],
         [
-            80,
+            82,
             "247.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -903,7 +925,7 @@
             "-"
         ],
         [
-            81,
+            83,
             "220.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -914,7 +936,7 @@
             "-"
         ],
         [
-            82,
+            84,
             "035.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -925,7 +947,7 @@
             "-"
         ],
         [
-            83,
+            85,
             "221.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -936,7 +958,7 @@
             "-"
         ],
         [
-            84,
+            86,
             "076.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -947,7 +969,7 @@
             "-"
         ],
         [
-            85,
+            87,
             "077.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -958,7 +980,7 @@
             "-"
         ],
         [
-            86,
+            88,
             "190.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -969,7 +991,7 @@
             "-"
         ],
         [
-            87,
+            89,
             "078.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -980,7 +1002,7 @@
             "-"
         ],
         [
-            88,
+            90,
             "079.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -991,7 +1013,7 @@
             "-"
         ],
         [
-            89,
+            91,
             "188.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -1002,7 +1024,7 @@
             "-"
         ],
         [
-            90,
+            92,
             "175.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1013,7 +1035,7 @@
             "-"
         ],
         [
-            91,
+            93,
             "187.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -1024,7 +1046,7 @@
             "-"
         ],
         [
-            92,
+            94,
             "216.KR/ALAT POTONG DAN RABAS-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -1035,7 +1057,7 @@
             "-"
         ],
         [
-            93,
+            95,
             "219.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1046,7 +1068,7 @@
             "-"
         ],
         [
-            94,
+            96,
             "150.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1057,7 +1079,7 @@
             "-"
         ],
         [
-            95,
+            97,
             "092.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1068,7 +1090,7 @@
             "-"
         ],
         [
-            96,
+            98,
             "093.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1079,7 +1101,7 @@
             "-"
         ],
         [
-            97,
+            99,
             "126.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -1090,7 +1112,7 @@
             "-"
         ],
         [
-            98,
+            100,
             "128.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1101,7 +1123,7 @@
             "-"
         ],
         [
-            99,
+            101,
             "129.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1112,7 +1134,7 @@
             "-"
         ],
         [
-            100,
+            102,
             "146.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1123,7 +1145,7 @@
             "-"
         ],
         [
-            101,
+            103,
             "147.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1134,7 +1156,7 @@
             "-"
         ],
         [
-            102,
+            104,
             "148.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1145,7 +1167,7 @@
             "-"
         ],
         [
-            103,
+            105,
             "149.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1156,7 +1178,7 @@
             "-"
         ],
         [
-            104,
+            106,
             "150.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1167,7 +1189,7 @@
             "-"
         ],
         [
-            105,
+            107,
             "151.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1178,7 +1200,7 @@
             "-"
         ],
         [
-            106,
+            108,
             "189.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1189,7 +1211,7 @@
             "-"
         ],
         [
-            107,
+            109,
             "006.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1200,7 +1222,7 @@
             "-"
         ],
         [
-            108,
+            110,
             "008.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1211,7 +1233,7 @@
             "-"
         ],
         [
-            109,
+            111,
             "034.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1222,7 +1244,7 @@
             "-"
         ],
         [
-            110,
+            112,
             "051.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1233,7 +1255,7 @@
             "-"
         ],
         [
-            111,
+            113,
             "066.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1244,7 +1266,7 @@
             "-"
         ],
         [
-            112,
+            114,
             "037.KR/FAST MOVING KAL-2-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -1255,7 +1277,7 @@
             "-"
         ],
         [
-            113,
+            115,
             "2653.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1266,7 +1288,7 @@
             "-"
         ],
         [
-            114,
+            116,
             "2654.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1277,7 +1299,7 @@
             "-"
         ],
         [
-            115,
+            117,
             "2655.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1288,7 +1310,7 @@
             "-"
         ],
         [
-            116,
+            118,
             "2656.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1299,7 +1321,7 @@
             "-"
         ],
         [
-            117,
+            119,
             "2657.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1310,7 +1332,7 @@
             "-"
         ],
         [
-            118,
+            120,
             "2659.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2025",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1321,7 +1343,7 @@
             "-"
         ],
         [
-            119,
+            121,
             "2445.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1332,7 +1354,7 @@
             "-"
         ],
         [
-            120,
+            122,
             "2446.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1343,7 +1365,7 @@
             "-"
         ],
         [
-            121,
+            123,
             "2447.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1354,7 +1376,7 @@
             "-"
         ],
         [
-            122,
+            124,
             "2448.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1365,7 +1387,7 @@
             "-"
         ],
         [
-            123,
+            125,
             "2449.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1376,7 +1398,7 @@
             "-"
         ],
         [
-            124,
+            126,
             "2558.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1387,7 +1409,7 @@
             "-"
         ],
         [
-            125,
+            127,
             "2559.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1398,7 +1420,7 @@
             "-"
         ],
         [
-            126,
+            128,
             "2560.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1409,7 +1431,7 @@
             "-"
         ],
         [
-            127,
+            129,
             "2561.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1420,7 +1442,7 @@
             "-"
         ],
         [
-            128,
+            130,
             "2562.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1452,6 +1474,1122 @@
         ],
         [
             1,
+            "983.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
+            "UP KALIMANTAN 2",
+            "MITRA NUSANTARA POWERINDO, PT",
+            "PEMBANGKITAN",
+            "2026-05-29",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-",
+            "MTS-T-AK-03-0000902",
+            "BIG END BOLT 4200468",
+            "-",
+            12,
+            "Rp. 439.560",
+            "Rp. 5.274.720"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0000965",
+            "COMPRESSION SPRING 1318353",
+            "-",
+            6,
+            "Rp. 326.700",
+            "Rp. 1.960.200"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0000970",
+            "COMPRESSION SPRING 4200150",
+            "-",
+            12,
+            "Rp. 211.365",
+            "Rp. 2.536.380"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0000994",
+            "COOLANT PUMP 2937604",
+            "-",
+            1,
+            "Rp. 9.013.950",
+            "Rp. 9.013.950"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001005",
+            "CORE HOLE PLUG 1148031",
+            "-",
+            5,
+            "Rp. 62.865",
+            "Rp. 314.325"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001006",
+            "CORE HOLE PLUG 1165828",
+            "-",
+            5,
+            "Rp. 56.925",
+            "Rp. 284.625"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001030",
+            "CYLIND.HEAD GASKET 4514873",
+            "-",
+            1,
+            "Rp. 2.180.970",
+            "Rp. 2.180.970"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001043",
+            "CYLINDER LINER 4253771",
+            "-",
+            6,
+            "Rp. 3.252.150",
+            "Rp. 19.512.900"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001072",
+            "EXHAUST VALVE 4283381",
+            "-",
+            6,
+            "Rp. 657.855",
+            "Rp. 3.947.130"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001178",
+            "GASKET 4198741",
+            "-",
+            1,
+            "Rp. 43.065",
+            "Rp. 43.065"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001281",
+            "GASKET SET 2937627",
+            "-",
+            1,
+            "Rp. 16.137.000",
+            "Rp. 16.137.000"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001318",
+            "HEXAGON NUT 2109637",
+            "-",
+            12,
+            "Rp. 9.900",
+            "Rp. 118.800"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001321",
+            "HIGH PRESSURE PIPE 2111918",
+            "-",
+            6,
+            "Rp. 871.200",
+            "Rp. 5.227.200"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001382",
+            "INLET VALVE 4283380",
+            "-",
+            6,
+            "Rp. 777.645",
+            "Rp. 4.665.870"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001419",
+            "MAIN BEARING 2931880",
+            "-",
+            7,
+            "Rp. 554.400",
+            "Rp. 3.880.800"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001435",
+            "NARROW V-BELT 1180150",
+            "-",
+            1,
+            "Rp. 663.300",
+            "Rp. 663.300"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001533",
+            "O-SEAL 1153857",
+            "-",
+            12,
+            "Rp. 52.965",
+            "Rp. 635.580"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001573",
+            "O-SEAL 1180060",
+            "-",
+            1,
+            "Rp. 166.815",
+            "Rp. 166.815"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001622",
+            "PACKING COMPOUND 1340785",
+            "-",
+            3,
+            "Rp. 1.410.750",
+            "Rp. 4.232.250"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001656",
+            "PISTON 4207775",
+            "-",
+            6,
+            "Rp. 6.930.000",
+            "Rp. 41.580.000"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001662",
+            "PISTON COOL.NOZZLE 4207521",
+            "-",
+            6,
+            "Rp. 123.750",
+            "Rp. 742.500"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001686",
+            "PRESSURE PICKUP 1183693",
+            "-",
+            1,
+            "Rp. 2.544.300",
+            "Rp. 2.544.300"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001742",
+            "ROLLER TAPPET 2113804",
+            "-",
+            6,
+            "Rp. 2.564.100",
+            "Rp. 15.384.600"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001863",
+            "SEALING RING 4175610",
+            "-",
+            6,
+            "Rp. 9.900",
+            "Rp. 59.400"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001936",
+            "SHIM 4293902",
+            "-",
+            6,
+            "Rp. 118.305",
+            "Rp. 709.830"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002024",
+            "THRUST WASHER 2931881",
+            "-",
+            2,
+            "Rp. 598.950",
+            "Rp. 1.197.900"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002040",
+            "VALV.SPRING RETAIN 4200114",
+            "-",
+            12,
+            "Rp. 289.575",
+            "Rp. 3.474.900"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002044",
+            "VALVE COLLET 12164698",
+            "-",
+            24,
+            "Rp. 79.695",
+            "Rp. 1.912.680"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002060",
+            "VALVE GUIDE 4201238",
+            "-",
+            12,
+            "Rp. 277.695",
+            "Rp. 3.332.340"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002087",
+            "VALVE SEAT INSERT 4252442",
+            "-",
+            6,
+            "Rp. 334.125",
+            "Rp. 2.004.750"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002088",
+            "VALVE SEAT INSERT 4252443",
+            "-",
+            6,
+            "Rp. 334.125",
+            "Rp. 2.004.750"
+        ],
+        [
+            2,
+            "984.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
+            "UP KALIMANTAN 2",
+            "MITRA NUSANTARA POWERINDO, PT",
+            "PEMBANGKITAN",
+            "2026-05-29",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-",
+            "MTS-T-AK-03-0000902",
+            "BIG END BOLT 4200468",
+            "-",
+            12,
+            "Rp. 439.560",
+            "Rp. 5.274.720"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0000965",
+            "COMPRESSION SPRING 1318353",
+            "-",
+            6,
+            "Rp. 326.700",
+            "Rp. 1.960.200"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0000970",
+            "COMPRESSION SPRING 4200150",
+            "-",
+            12,
+            "Rp. 211.365",
+            "Rp. 2.536.380"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0000994",
+            "COOLANT PUMP 2937604",
+            "-",
+            1,
+            "Rp. 9.013.950",
+            "Rp. 9.013.950"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001005",
+            "CORE HOLE PLUG 1148031",
+            "-",
+            5,
+            "Rp. 62.865",
+            "Rp. 314.325"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001006",
+            "CORE HOLE PLUG 1165828",
+            "-",
+            5,
+            "Rp. 56.925",
+            "Rp. 284.625"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001030",
+            "CYLIND.HEAD GASKET 4514873",
+            "-",
+            1,
+            "Rp. 2.180.970",
+            "Rp. 2.180.970"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001043",
+            "CYLINDER LINER 4253771",
+            "-",
+            6,
+            "Rp. 3.252.150",
+            "Rp. 19.512.900"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001072",
+            "EXHAUST VALVE 4283381",
+            "-",
+            6,
+            "Rp. 657.855",
+            "Rp. 3.947.130"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001178",
+            "GASKET 4198741",
+            "-",
+            1,
+            "Rp. 43.065",
+            "Rp. 43.065"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001281",
+            "GASKET SET 2937627",
+            "-",
+            1,
+            "Rp. 16.137.000",
+            "Rp. 16.137.000"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001318",
+            "HEXAGON NUT 2109637",
+            "-",
+            12,
+            "Rp. 9.900",
+            "Rp. 118.800"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001321",
+            "HIGH PRESSURE PIPE 2111918",
+            "-",
+            6,
+            "Rp. 871.200",
+            "Rp. 5.227.200"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001382",
+            "INLET VALVE 4283380",
+            "-",
+            6,
+            "Rp. 777.645",
+            "Rp. 4.665.870"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001419",
+            "MAIN BEARING 2931880",
+            "-",
+            7,
+            "Rp. 554.400",
+            "Rp. 3.880.800"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001435",
+            "NARROW V-BELT 1180150",
+            "-",
+            1,
+            "Rp. 663.300",
+            "Rp. 663.300"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001533",
+            "O-SEAL 1153857",
+            "-",
+            12,
+            "Rp. 52.965",
+            "Rp. 635.580"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001573",
+            "O-SEAL 1180060",
+            "-",
+            1,
+            "Rp. 166.815",
+            "Rp. 166.815"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001622",
+            "PACKING COMPOUND 1340785",
+            "-",
+            3,
+            "Rp. 1.410.750",
+            "Rp. 4.232.250"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001656",
+            "PISTON 4207775",
+            "-",
+            6,
+            "Rp. 6.930.000",
+            "Rp. 41.580.000"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001662",
+            "PISTON COOL.NOZZLE 4207521",
+            "-",
+            6,
+            "Rp. 123.750",
+            "Rp. 742.500"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001686",
+            "PRESSURE PICKUP 1183693",
+            "-",
+            1,
+            "Rp. 2.544.300",
+            "Rp. 2.544.300"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001742",
+            "ROLLER TAPPET 2113804",
+            "-",
+            6,
+            "Rp. 2.564.100",
+            "Rp. 15.384.600"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001863",
+            "SEALING RING 4175610",
+            "-",
+            6,
+            "Rp. 9.900",
+            "Rp. 59.400"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0001936",
+            "SHIM 4293902",
+            "-",
+            6,
+            "Rp. 118.305",
+            "Rp. 709.830"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002024",
+            "THRUST WASHER 2931881",
+            "-",
+            2,
+            "Rp. 598.950",
+            "Rp. 1.197.900"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002040",
+            "VALV.SPRING RETAIN 4200114",
+            "-",
+            12,
+            "Rp. 289.575",
+            "Rp. 3.474.900"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002044",
+            "VALVE COLLET 12164698",
+            "-",
+            24,
+            "Rp. 79.695",
+            "Rp. 1.912.680"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002060",
+            "VALVE GUIDE 4201238",
+            "-",
+            12,
+            "Rp. 277.695",
+            "Rp. 3.332.340"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002087",
+            "VALVE SEAT INSERT 4252442",
+            "-",
+            6,
+            "Rp. 334.125",
+            "Rp. 2.004.750"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MTS-T-AK-03-0002088",
+            "VALVE SEAT INSERT 4252443",
+            "-",
+            6,
+            "Rp. 334.125",
+            "Rp. 2.004.750"
+        ],
+        [
+            3,
             "1013.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -1469,7 +2607,7 @@
             "Rp. 56.784.000"
         ],
         [
-            2,
+            4,
             "1145.KR/TANGGA-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -1487,7 +2625,7 @@
             "Rp. 58.080.000"
         ],
         [
-            3,
+            5,
             "1146.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -1559,7 +2697,7 @@
             "Rp. 11.250.000"
         ],
         [
-            4,
+            6,
             "1154.KR/ALAT UKUR-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -1577,7 +2715,7 @@
             "Rp. 16.200.000"
         ],
         [
-            5,
+            7,
             "1147.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -1595,7 +2733,7 @@
             "Rp. 36.000.000"
         ],
         [
-            6,
+            8,
             "1067.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -1631,7 +2769,7 @@
             "Rp. 138.133.024"
         ],
         [
-            7,
+            9,
             "1079.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -1703,7 +2841,7 @@
             "Rp. 4.120.000"
         ],
         [
-            8,
+            10,
             "1072.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -1721,14 +2859,14 @@
             "Rp. 107.800.000"
         ],
         [
-            9,
+            11,
             "664.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
             "2026-05-06",
-            "-",
-            "-",
+            "2026-05-29",
+            "2026-05-29",
             "Acc Vendor",
             "-",
             "MTS-T-PK-17-000271",
@@ -1829,7 +2967,7 @@
             "Rp. 7.986.576"
         ],
         [
-            10,
+            12,
             "861.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -1847,7 +2985,7 @@
             "Rp. 115.700.000"
         ],
         [
-            11,
+            13,
             "862.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -1865,7 +3003,7 @@
             "Rp. 7.920.000"
         ],
         [
-            12,
+            14,
             "829.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -2585,7 +3723,7 @@
             "Rp. 18.066.200"
         ],
         [
-            13,
+            15,
             "830.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -3377,7 +4515,7 @@
             "Rp. 25.030.000"
         ],
         [
-            14,
+            16,
             "1030.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -3395,7 +4533,7 @@
             "Rp. 1.470.000"
         ],
         [
-            15,
+            17,
             "1029.KR/ALAT UKUR-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -3413,7 +4551,7 @@
             "Rp. 11.340.000"
         ],
         [
-            16,
+            18,
             "940.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -3449,7 +4587,7 @@
             "Rp. 162.916.000"
         ],
         [
-            17,
+            19,
             "939.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -3485,7 +4623,7 @@
             "Rp. 40.560.000"
         ],
         [
-            18,
+            20,
             "938.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -3521,7 +4659,7 @@
             "Rp. 58.812.000"
         ],
         [
-            19,
+            21,
             "941.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3539,7 +4677,7 @@
             "Rp. 225.408.750"
         ],
         [
-            20,
+            22,
             "942.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3557,7 +4695,7 @@
             "Rp. 161.006.250"
         ],
         [
-            21,
+            23,
             "943.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3575,7 +4713,7 @@
             "Rp. 254.820.000"
         ],
         [
-            22,
+            24,
             "944.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3593,7 +4731,7 @@
             "Rp. 266.677.500"
         ],
         [
-            23,
+            25,
             "945.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3611,7 +4749,7 @@
             "Rp. 59.520.000"
         ],
         [
-            24,
+            26,
             "867.KR/TERMOVISION DAN ULTRASOUND-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -3629,7 +4767,7 @@
             "Rp. 220.450.000"
         ],
         [
-            25,
+            27,
             "906.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -3647,7 +4785,7 @@
             "Rp. 137.900.000"
         ],
         [
-            26,
+            28,
             "907.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -3665,7 +4803,7 @@
             "Rp. 58.800.000"
         ],
         [
-            27,
+            29,
             "919.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -3683,7 +4821,7 @@
             "Rp. 72.210.000"
         ],
         [
-            28,
+            30,
             "920.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -3701,7 +4839,7 @@
             "Rp. 75.115.000"
         ],
         [
-            29,
+            31,
             "922.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -3719,7 +4857,7 @@
             "Rp. 87.093.360"
         ],
         [
-            30,
+            32,
             "923.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -3737,7 +4875,7 @@
             "Rp. 87.569.280"
         ],
         [
-            31,
+            33,
             "863.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -3755,7 +4893,7 @@
             "Rp. 49.000.000"
         ],
         [
-            32,
+            34,
             "864.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -3773,7 +4911,7 @@
             "Rp. 12.600.000"
         ],
         [
-            33,
+            35,
             "866.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -3791,7 +4929,7 @@
             "Rp. 125.125.000"
         ],
         [
-            34,
+            36,
             "887.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -3809,7 +4947,7 @@
             "Rp. 39.219.840"
         ],
         [
-            35,
+            37,
             "888.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -3827,7 +4965,7 @@
             "Rp. 96.266.880"
         ],
         [
-            36,
+            38,
             "889.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -3845,7 +4983,7 @@
             "Rp. 26.740.800"
         ],
         [
-            37,
+            39,
             "738.KR/HELM SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -3881,7 +5019,7 @@
             "Rp. 5.580.000"
         ],
         [
-            38,
+            40,
             "865.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -3899,7 +5037,7 @@
             "Rp. 343.000.000"
         ],
         [
-            39,
+            41,
             "893.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3917,7 +5055,7 @@
             "Rp. 254.238.750"
         ],
         [
-            40,
+            42,
             "894.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3935,7 +5073,7 @@
             "Rp. 136.710.000"
         ],
         [
-            41,
+            43,
             "895.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3953,7 +5091,7 @@
             "Rp. 254.936.250"
         ],
         [
-            42,
+            44,
             "834.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3971,7 +5109,7 @@
             "Rp. 247.380.000"
         ],
         [
-            43,
+            45,
             "835.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -3989,7 +5127,7 @@
             "Rp. 242.032.500"
         ],
         [
-            44,
+            46,
             "836.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -4007,7 +5145,7 @@
             "Rp. 128.340.000"
         ],
         [
-            45,
+            47,
             "768.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -4061,7 +5199,7 @@
             "Rp. 30.000.000"
         ],
         [
-            46,
+            48,
             "789.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -4079,7 +5217,7 @@
             "Rp. 15.450.847"
         ],
         [
-            47,
+            49,
             "734.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -4097,7 +5235,7 @@
             "Rp. 614.400.000"
         ],
         [
-            48,
+            50,
             "735.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -4115,7 +5253,7 @@
             "Rp. 48.000.000"
         ],
         [
-            49,
+            51,
             "739.KR/HELM SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -4133,7 +5271,7 @@
             "Rp. 29.760.000"
         ],
         [
-            50,
+            52,
             "832.KR/HELM SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -4151,7 +5289,7 @@
             "Rp. 31.860.000"
         ],
         [
-            51,
+            53,
             "833.KR/HELM SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -4169,7 +5307,7 @@
             "Rp. 33.120.000"
         ],
         [
-            52,
+            54,
             "737.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -4205,7 +5343,7 @@
             "Rp. 12.870.000"
         ],
         [
-            53,
+            55,
             "543.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -4367,7 +5505,7 @@
             "Rp. 11.700.000"
         ],
         [
-            54,
+            56,
             "544.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -4529,7 +5667,7 @@
             "Rp. 25.800.000"
         ],
         [
-            55,
+            57,
             "545.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -4709,7 +5847,7 @@
             "Rp. 5.902.774"
         ],
         [
-            56,
+            58,
             "736.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -4727,7 +5865,7 @@
             "Rp. 113.720.310"
         ],
         [
-            57,
+            59,
             "581.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -4853,7 +5991,7 @@
             "Rp. 105.280.000"
         ],
         [
-            58,
+            60,
             "590.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -4961,7 +6099,7 @@
             "Rp. 11.257.000"
         ],
         [
-            59,
+            61,
             "607.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -4979,7 +6117,7 @@
             "Rp. 156.800.000"
         ],
         [
-            60,
+            62,
             "471.KR/TERMOVISION DAN ULTRASOUND-KAL2/2026",
             "UP KALIMANTAN 2",
             "TEKNIKA PESONA KAHAYAN, PT.",
@@ -4997,7 +6135,7 @@
             "Rp. 440.900.000"
         ],
         [
-            61,
+            63,
             "683.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -6383,7 +7521,7 @@
             "Rp. 135.178.848"
         ],
         [
-            62,
+            64,
             "684.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -7769,7 +8907,7 @@
             "Rp. 135.178.848"
         ],
         [
-            63,
+            65,
             "685.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -9155,7 +10293,7 @@
             "Rp. 135.178.848"
         ],
         [
-            64,
+            66,
             "686.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -10541,7 +11679,7 @@
             "Rp. 135.178.848"
         ],
         [
-            65,
+            67,
             "387.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -10649,7 +11787,7 @@
             "Rp. 9.287.250"
         ],
         [
-            66,
+            68,
             "513.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -10667,7 +11805,7 @@
             "Rp. 255.168.750"
         ],
         [
-            67,
+            69,
             "514.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -10685,7 +11823,7 @@
             "Rp. 158.913.750"
         ],
         [
-            68,
+            70,
             "515.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -10703,7 +11841,7 @@
             "Rp. 256.796.250"
         ],
         [
-            69,
+            71,
             "248.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -10721,7 +11859,7 @@
             "Rp. 7.350.000"
         ],
         [
-            70,
+            72,
             "420.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -10739,7 +11877,7 @@
             "Rp. 254.238.750"
         ],
         [
-            71,
+            73,
             "421.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -10757,7 +11895,7 @@
             "Rp. 242.962.500"
         ],
         [
-            72,
+            74,
             "441.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -10775,7 +11913,7 @@
             "Rp. 48.000.000"
         ],
         [
-            73,
+            75,
             "324.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -10793,7 +11931,7 @@
             "Rp. 88.200.000"
         ],
         [
-            74,
+            76,
             "440.KR/TANGGA-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -10811,7 +11949,7 @@
             "Rp. 67.760.000"
         ],
         [
-            75,
+            77,
             "423.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -10829,7 +11967,7 @@
             "Rp. 252.262.500"
         ],
         [
-            76,
+            78,
             "424.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -10847,7 +11985,7 @@
             "Rp. 203.553.750"
         ],
         [
-            77,
+            79,
             "425.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -10865,7 +12003,7 @@
             "Rp. 88.001.250"
         ],
         [
-            78,
+            80,
             "169.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -10955,7 +12093,7 @@
             "Rp. 5.629.000"
         ],
         [
-            79,
+            81,
             "172.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -10991,7 +12129,7 @@
             "Rp. 9.031.950"
         ],
         [
-            80,
+            82,
             "247.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -11009,7 +12147,7 @@
             "Rp. 21.000.000"
         ],
         [
-            81,
+            83,
             "220.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -11099,7 +12237,7 @@
             "Rp. 5.759.550"
         ],
         [
-            82,
+            84,
             "035.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -11279,7 +12417,7 @@
             "Rp. 1.326.450"
         ],
         [
-            83,
+            85,
             "221.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -11405,7 +12543,7 @@
             "Rp. 15.478.750"
         ],
         [
-            84,
+            86,
             "076.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -11441,7 +12579,7 @@
             "Rp. 283.244.000"
         ],
         [
-            85,
+            87,
             "077.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -11477,7 +12615,7 @@
             "Rp. 140.608.000"
         ],
         [
-            86,
+            88,
             "190.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -11495,7 +12633,7 @@
             "Rp. 127.088.000"
         ],
         [
-            87,
+            89,
             "078.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -11513,7 +12651,7 @@
             "Rp. 145.340.000"
         ],
         [
-            88,
+            90,
             "079.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -11531,7 +12669,7 @@
             "Rp. 248.092.000"
         ],
         [
-            89,
+            91,
             "188.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -11549,7 +12687,7 @@
             "Rp. 78.400.000"
         ],
         [
-            90,
+            92,
             "175.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -11657,7 +12795,7 @@
             "Rp. 4.900.000"
         ],
         [
-            91,
+            93,
             "187.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -11675,7 +12813,7 @@
             "Rp. 137.200.000"
         ],
         [
-            92,
+            94,
             "216.KR/ALAT POTONG DAN RABAS-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -11693,7 +12831,7 @@
             "Rp. 32.200.000"
         ],
         [
-            93,
+            95,
             "219.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -11729,7 +12867,7 @@
             "Rp. 92.950.000"
         ],
         [
-            94,
+            96,
             "150.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -12503,7 +13641,7 @@
             "Rp. 2.004.750"
         ],
         [
-            95,
+            97,
             "092.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -13277,7 +14415,7 @@
             "Rp. 2.004.750"
         ],
         [
-            96,
+            98,
             "093.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -14051,7 +15189,7 @@
             "Rp. 2.004.750"
         ],
         [
-            97,
+            99,
             "126.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -14069,7 +15207,7 @@
             "Rp. 196.000.000"
         ],
         [
-            98,
+            100,
             "128.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -14159,7 +15297,7 @@
             "Rp. 24.745.000"
         ],
         [
-            99,
+            101,
             "129.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -14177,7 +15315,7 @@
             "Rp. 2.585.000"
         ],
         [
-            100,
+            102,
             "146.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -14951,7 +16089,7 @@
             "Rp. 2.004.750"
         ],
         [
-            101,
+            103,
             "147.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -15725,7 +16863,7 @@
             "Rp. 2.004.750"
         ],
         [
-            102,
+            104,
             "148.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -16499,7 +17637,7 @@
             "Rp. 2.004.750"
         ],
         [
-            103,
+            105,
             "149.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -17273,7 +18411,7 @@
             "Rp. 2.004.750"
         ],
         [
-            104,
+            106,
             "150.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -18047,7 +19185,7 @@
             "Rp. 2.004.750"
         ],
         [
-            105,
+            107,
             "151.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -18821,7 +19959,7 @@
             "Rp. 2.004.750"
         ],
         [
-            106,
+            108,
             "189.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -18875,7 +20013,7 @@
             "Rp. 21.450.000"
         ],
         [
-            107,
+            109,
             "006.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -18947,7 +20085,7 @@
             "Rp. 23.038.200"
         ],
         [
-            108,
+            110,
             "008.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -19037,7 +20175,7 @@
             "Rp. 14.091.699"
         ],
         [
-            109,
+            111,
             "034.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -19055,7 +20193,7 @@
             "Rp. 20.727.030"
         ],
         [
-            110,
+            112,
             "051.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -19073,7 +20211,7 @@
             "Rp. 56.700.000"
         ],
         [
-            111,
+            113,
             "066.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -19127,7 +20265,7 @@
             "Rp. 3.600.000"
         ],
         [
-            112,
+            114,
             "037.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -19181,7 +20319,7 @@
             "Rp. 15.097.000"
         ],
         [
-            113,
+            115,
             "2653.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -19199,7 +20337,7 @@
             "Rp. 212.737.500"
         ],
         [
-            114,
+            116,
             "2654.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -19217,7 +20355,7 @@
             "Rp. 133.920.000"
         ],
         [
-            115,
+            117,
             "2655.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -19235,7 +20373,7 @@
             "Rp. 66.960.000"
         ],
         [
-            116,
+            118,
             "2656.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -19253,7 +20391,7 @@
             "Rp. 71.842.500"
         ],
         [
-            117,
+            119,
             "2657.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -19271,7 +20409,7 @@
             "Rp. 170.190.000"
         ],
         [
-            118,
+            120,
             "2659.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2025",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -19289,7 +20427,7 @@
             "Rp. 114.041.250"
         ],
         [
-            119,
+            121,
             "2445.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -20477,7 +21615,7 @@
             "Rp. 8.197.200"
         ],
         [
-            120,
+            122,
             "2446.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -21665,7 +22803,7 @@
             "Rp. 8.197.200"
         ],
         [
-            121,
+            123,
             "2447.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -22853,7 +23991,7 @@
             "Rp. 8.197.200"
         ],
         [
-            122,
+            124,
             "2448.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -24041,7 +25179,7 @@
             "Rp. 8.197.200"
         ],
         [
-            123,
+            125,
             "2449.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -25229,7 +26367,7 @@
             "Rp. 8.197.200"
         ],
         [
-            124,
+            126,
             "2558.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -25265,7 +26403,7 @@
             "Rp. 213.616.000"
         ],
         [
-            125,
+            127,
             "2559.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -25301,7 +26439,7 @@
             "Rp. 169.676.000"
         ],
         [
-            126,
+            128,
             "2560.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -25337,7 +26475,7 @@
             "Rp. 129.792.000"
         ],
         [
-            127,
+            129,
             "2561.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -25373,7 +26511,7 @@
             "Rp. 64.896.000"
         ],
         [
-            128,
+            130,
             "2562.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -25424,7 +26562,7 @@
             "",
             "",
             "",
-            "Rp. 22.449.760.954"
+            "Rp. 22.761.248.614"
         ],
         [
             "",
@@ -25463,7 +26601,7 @@
             ""
         ],
         [
-            "- Total Kontrak Rinci (KR): 128 KR",
+            "- Total Kontrak Rinci (KR): 130 KR",
             "",
             "",
             "",
@@ -25481,7 +26619,7 @@
             ""
         ],
         [
-            "- Total Baris Item: 1331 item",
+            "- Total Baris Item: 1393 item",
             "",
             "",
             "",
@@ -26886,9 +28024,9 @@
             "MTS-T-AK-03-0000902",
             "BIG END BOLT 4200468",
             "-",
-            276,
+            300,
             "Rp. 505.920",
-            "Rp. 124.503.840"
+            "Rp. 135.053.280"
         ],
         [
             17,
@@ -26923,6 +28061,16 @@
         [
             20,
             "KANTOR REGION KAL2",
+            "MTS-T-AK-03-0000965",
+            "COMPRESSION SPRING 1318353",
+            "-",
+            12,
+            "Rp. 326.700",
+            "Rp. 3.920.400"
+        ],
+        [
+            21,
+            "KANTOR REGION KAL2",
             "MTS-T-AK-03-0000966",
             "COMPRESSION SPRING 1318903",
             "-",
@@ -26931,17 +28079,17 @@
             "Rp. 42.322.500"
         ],
         [
-            21,
+            22,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0000970",
             "COMPRESSION SPRING 4200150",
             "-",
-            180,
+            204,
             "Rp. 211.365",
-            "Rp. 38.045.700"
+            "Rp. 43.118.460"
         ],
         [
-            22,
+            23,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0000971",
             "COMPRESSION SPRING 4902197",
@@ -26951,7 +28099,7 @@
             "Rp. 19.998.720"
         ],
         [
-            23,
+            24,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0000991",
             "CONTROL BLOCK 2113830",
@@ -26961,7 +28109,7 @@
             "Rp. 88.950.656"
         ],
         [
-            24,
+            25,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0000992",
             "COOL.SYST.PROTECT. 1016416",
@@ -26971,7 +28119,17 @@
             "Rp. 16.933.440"
         ],
         [
-            25,
+            26,
+            "KANTOR REGION KAL2",
+            "MTS-T-AK-03-0000994",
+            "COOLANT PUMP 2937604",
+            "-",
+            2,
+            "Rp. 9.013.950",
+            "Rp. 18.027.900"
+        ],
+        [
+            27,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0000995",
             "COOLANT PUMP 2937605",
@@ -26981,7 +28139,7 @@
             "Rp. 175.329.000"
         ],
         [
-            26,
+            28,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001002",
             "CORE ASSEMBLY 1319229",
@@ -26991,27 +28149,27 @@
             "Rp. 163.102.500"
         ],
         [
-            27,
+            29,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001005",
             "CORE HOLE PLUG 1148031",
             "-",
-            120,
+            130,
             "Rp. 62.865",
-            "Rp. 7.543.800"
+            "Rp. 8.172.450"
         ],
         [
-            28,
+            30,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001006",
             "CORE HOLE PLUG 1165828",
             "-",
-            120,
+            130,
             "Rp. 56.925",
-            "Rp. 6.831.000"
+            "Rp. 7.400.250"
         ],
         [
-            29,
+            31,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001007",
             "CORE HOLE PLUG 1165830",
@@ -27021,7 +28179,7 @@
             "Rp. 4.154.496"
         ],
         [
-            30,
+            32,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001015",
             "COVER 1107619",
@@ -27031,7 +28189,7 @@
             "Rp. 1.476.096"
         ],
         [
-            31,
+            33,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001019",
             "CRANKCASE BREATHER 4905110",
@@ -27041,17 +28199,17 @@
             "Rp. 20.639.552"
         ],
         [
-            32,
+            34,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001030",
             "CYLIND.HEAD GASKET 4514873",
             "-",
-            24,
+            26,
             "Rp. 2.180.970",
-            "Rp. 52.343.280"
+            "Rp. 56.705.220"
         ],
         [
-            33,
+            35,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001031",
             "CYLIND.HEAD GASKET 4900689",
@@ -27061,17 +28219,17 @@
             "Rp. 19.669.376"
         ],
         [
-            34,
+            36,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001043",
             "CYLINDER LINER 4253771",
             "-",
-            84,
+            96,
             "Rp. 3.252.150",
-            "Rp. 273.180.600"
+            "Rp. 312.206.400"
         ],
         [
-            35,
+            37,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001046",
             "CYLINDER LINER 4901316",
@@ -27081,17 +28239,17 @@
             "Rp. 125.289.600"
         ],
         [
-            36,
+            38,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001072",
             "EXHAUST VALVE 4283381",
             "-",
-            144,
+            156,
             "Rp. 657.855",
-            "Rp. 94.731.120"
+            "Rp. 102.625.380"
         ],
         [
-            37,
+            39,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001073",
             "EXHAUST VALVE 4903006",
@@ -27101,7 +28259,7 @@
             "Rp. 54.282.240"
         ],
         [
-            38,
+            40,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001085",
             "FILTER CARTRIDGE 4504438",
@@ -27111,7 +28269,7 @@
             "Rp. 9.033.152"
         ],
         [
-            39,
+            41,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001086",
             "FILTER INSERT 1181003",
@@ -27121,7 +28279,7 @@
             "Rp. 64.152.000"
         ],
         [
-            40,
+            42,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001087",
             "FILTER INSERT 1182786",
@@ -27131,7 +28289,7 @@
             "Rp. 14.205.440"
         ],
         [
-            41,
+            43,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001091",
             "FILTER INSERT 1340130",
@@ -27141,7 +28299,7 @@
             "Rp. 31.125.600"
         ],
         [
-            42,
+            44,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001115",
             "FUEL INJECTOR 4902525",
@@ -27151,7 +28309,7 @@
             "Rp. 135.178.848"
         ],
         [
-            43,
+            45,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001117",
             "FUEL SUPPLY PUMP 4515664",
@@ -27161,7 +28319,7 @@
             "Rp. 41.580.000"
         ],
         [
-            44,
+            46,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001118",
             "FUEL SUPPLY PUMP 4915590",
@@ -27171,7 +28329,7 @@
             "Rp. 49.830.144"
         ],
         [
-            45,
+            47,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001151",
             "GASKET 2111391",
@@ -27181,7 +28339,7 @@
             "Rp. 5.583.600"
         ],
         [
-            46,
+            48,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001152",
             "GASKET 2111614",
@@ -27191,7 +28349,7 @@
             "Rp. 3.243.240"
         ],
         [
-            47,
+            49,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001153",
             "GASKET 2111670",
@@ -27201,7 +28359,17 @@
             "Rp. 8.137.800"
         ],
         [
-            48,
+            50,
+            "KANTOR REGION KAL2",
+            "MTS-T-AK-03-0001178",
+            "GASKET 4198741",
+            "-",
+            2,
+            "Rp. 43.065",
+            "Rp. 86.130"
+        ],
+        [
+            51,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001181",
             "GASKET 4204459",
@@ -27211,7 +28379,7 @@
             "Rp. 18.151.650"
         ],
         [
-            49,
+            52,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001183",
             "GASKET 4205894",
@@ -27221,7 +28389,7 @@
             "Rp. 14.909.400"
         ],
         [
-            50,
+            53,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001203",
             "GASKET 4263578",
@@ -27231,7 +28399,7 @@
             "Rp. 20.790.000"
         ],
         [
-            51,
+            54,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001207",
             "GASKET 4284008",
@@ -27241,7 +28409,7 @@
             "Rp. 34.110.450"
         ],
         [
-            52,
+            55,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001217",
             "GASKET 4503657",
@@ -27251,7 +28419,7 @@
             "Rp. 5.194.112"
         ],
         [
-            53,
+            56,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001222",
             "GASKET 4901626",
@@ -27261,7 +28429,7 @@
             "Rp. 6.424.192"
         ],
         [
-            54,
+            57,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001223",
             "GASKET 4901716",
@@ -27271,7 +28439,7 @@
             "Rp. 2.480.000"
         ],
         [
-            55,
+            58,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001224",
             "GASKET 4903098",
@@ -27281,7 +28449,7 @@
             "Rp. 2.101.056"
         ],
         [
-            56,
+            59,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001226",
             "GASKET 4904812",
@@ -27291,7 +28459,7 @@
             "Rp. 666.624"
         ],
         [
-            57,
+            60,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001227",
             "GASKET 4907260",
@@ -27301,7 +28469,7 @@
             "Rp. 285.696"
         ],
         [
-            58,
+            61,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001280",
             "GASKET SET 2931818",
@@ -27311,37 +28479,37 @@
             "Rp. 109.020.800"
         ],
         [
-            59,
+            62,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001281",
             "GASKET SET 2937627",
             "-",
-            19,
+            21,
             "Rp. 16.137.000",
-            "Rp. 306.603.000"
+            "Rp. 338.877.000"
         ],
         [
-            60,
+            63,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001318",
             "HEXAGON NUT 2109637",
             "-",
-            228,
+            252,
             "Rp. 12.400",
-            "Rp. 2.377.200"
+            "Rp. 2.614.800"
         ],
         [
-            61,
+            64,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001321",
             "HIGH PRESSURE PIPE 2111918",
             "-",
-            84,
+            96,
             "Rp. 871.200",
-            "Rp. 73.180.800"
+            "Rp. 83.635.200"
         ],
         [
-            62,
+            65,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001346",
             "HIGH PRESSURE PIPE 4904941",
@@ -27351,7 +28519,7 @@
             "Rp. 13.766.976"
         ],
         [
-            63,
+            66,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001347",
             "HIGH PRESSURE PIPE 4904942",
@@ -27361,7 +28529,7 @@
             "Rp. 13.719.360"
         ],
         [
-            64,
+            67,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001355",
             "HOSE ASSEMBLY 1182680",
@@ -27371,7 +28539,7 @@
             "Rp. 13.112.256"
         ],
         [
-            65,
+            68,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001356",
             "HOSE ASSEMBLY 1182685",
@@ -27381,17 +28549,17 @@
             "Rp. 9.076.800"
         ],
         [
-            66,
+            69,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001382",
             "INLET VALVE 4283380",
             "-",
-            144,
+            156,
             "Rp. 777.645",
-            "Rp. 111.980.880"
+            "Rp. 121.312.620"
         ],
         [
-            67,
+            70,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001385",
             "INLET VALVE 4903005",
@@ -27401,7 +28569,7 @@
             "Rp. 63.329.280"
         ],
         [
-            68,
+            71,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001418",
             "MAIN BEARING 2931811",
@@ -27411,17 +28579,17 @@
             "Rp. 31.178.560"
         ],
         [
-            69,
+            72,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001419",
             "MAIN BEARING 2931880",
             "-",
-            98,
+            112,
             "Rp. 554.400",
-            "Rp. 54.331.200"
+            "Rp. 62.092.800"
         ],
         [
-            70,
+            73,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001429",
             "MOUNTING DEVICE 1016105",
@@ -27431,17 +28599,17 @@
             "Rp. 25.518.396"
         ],
         [
-            71,
+            74,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001435",
             "NARROW V-BELT 1180150",
             "-",
-            24,
+            26,
             "Rp. 663.300",
-            "Rp. 15.919.200"
+            "Rp. 17.245.800"
         ],
         [
-            72,
+            75,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001450",
             "NOZZLE ELEMENT 2111698",
@@ -27451,7 +28619,7 @@
             "Rp. 396.060.390"
         ],
         [
-            73,
+            76,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001471",
             "OIL FILTER ELEMENT 2931522",
@@ -27461,7 +28629,7 @@
             "Rp. 4.287.424"
         ],
         [
-            74,
+            77,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001481",
             "OIL PRESSUR.SWITCH 1182794",
@@ -27471,17 +28639,17 @@
             "Rp. 10.117.800"
         ],
         [
-            75,
+            78,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001533",
             "O-SEAL 1153857",
             "-",
-            288,
+            312,
             "Rp. 52.965",
-            "Rp. 15.253.920"
+            "Rp. 16.525.080"
         ],
         [
-            76,
+            79,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001570",
             "O-SEAL 1179559",
@@ -27491,17 +28659,17 @@
             "Rp. 514.800"
         ],
         [
-            77,
+            80,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001573",
             "O-SEAL 1180060",
             "-",
-            24,
+            26,
             "Rp. 166.815",
-            "Rp. 4.003.560"
+            "Rp. 4.337.190"
         ],
         [
-            78,
+            81,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001577",
             "O-SEAL 1180277",
@@ -27511,7 +28679,7 @@
             "Rp. 3.160.080"
         ],
         [
-            79,
+            82,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001578",
             "O-SEAL 1180290",
@@ -27521,7 +28689,7 @@
             "Rp. 283.712"
         ],
         [
-            80,
+            83,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001582",
             "O-SEAL 1180803",
@@ -27531,7 +28699,7 @@
             "Rp. 2.623.758"
         ],
         [
-            81,
+            84,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001583",
             "O-SEAL 1180811",
@@ -27541,7 +28709,7 @@
             "Rp. 1.021.760"
         ],
         [
-            82,
+            85,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001584",
             "O-SEAL 1181086",
@@ -27551,7 +28719,7 @@
             "Rp. 208.320"
         ],
         [
-            83,
+            86,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001591",
             "O-SEAL 1181918",
@@ -27561,7 +28729,7 @@
             "Rp. 2.497.856"
         ],
         [
-            84,
+            87,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001595",
             "O-SEAL 1182790",
@@ -27571,7 +28739,7 @@
             "Rp. 7.225.728"
         ],
         [
-            85,
+            88,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001612",
             "O-SEAL 4257444",
@@ -27581,7 +28749,7 @@
             "Rp. 1.313.408"
         ],
         [
-            86,
+            89,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001614",
             "OVERFLOW LINE 2931504",
@@ -27591,17 +28759,17 @@
             "Rp. 64.567.800"
         ],
         [
-            87,
+            90,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001622",
             "PACKING COMPOUND 1340785",
             "-",
-            10,
+            16,
             "Rp. 1.410.750",
-            "Rp. 14.107.500"
+            "Rp. 22.572.000"
         ],
         [
-            88,
+            91,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001623",
             "PACKING COMPOUND 1340786",
@@ -27611,7 +28779,17 @@
             "Rp. 6.035.328"
         ],
         [
-            89,
+            92,
+            "KANTOR REGION KAL2",
+            "MTS-T-AK-03-0001656",
+            "PISTON 4207775",
+            "-",
+            12,
+            "Rp. 6.930.000",
+            "Rp. 83.160.000"
+        ],
+        [
+            93,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001658",
             "PISTON 4501348",
@@ -27621,7 +28799,7 @@
             "Rp. 536.382.000"
         ],
         [
-            90,
+            94,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001659",
             "PISTON 4910693",
@@ -27631,17 +28809,17 @@
             "Rp. 236.449.152"
         ],
         [
-            91,
+            95,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001662",
             "PISTON COOL.NOZZLE 4207521",
             "-",
-            84,
+            96,
             "Rp. 123.750",
-            "Rp. 10.395.000"
+            "Rp. 11.880.000"
         ],
         [
-            92,
+            96,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001663",
             "PISTON COOL.NOZZLE 4906905",
@@ -27651,7 +28829,7 @@
             "Rp. 18.439.296"
         ],
         [
-            93,
+            97,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001685",
             "PLUG 4906985",
@@ -27661,17 +28839,17 @@
             "Rp. 4.888.576"
         ],
         [
-            94,
+            98,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001686",
             "PRESSURE PICKUP 1183693",
             "-",
-            14,
+            16,
             "Rp. 2.544.300",
-            "Rp. 35.620.200"
+            "Rp. 40.708.800"
         ],
         [
-            95,
+            99,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001688",
             "PRESSURE REGULATOR 4255055",
@@ -27681,7 +28859,7 @@
             "Rp. 37.560.600"
         ],
         [
-            96,
+            100,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001690",
             "PRESSURE SENSOR 4210195",
@@ -27691,7 +28869,7 @@
             "Rp. 16.828.288"
         ],
         [
-            97,
+            101,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001692",
             "PRESSURE SENSOR 4217188",
@@ -27701,7 +28879,7 @@
             "Rp. 19.512.000"
         ],
         [
-            98,
+            102,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001694",
             "PRESSURESTAT 2111519",
@@ -27711,7 +28889,7 @@
             "Rp. 16.156.800"
         ],
         [
-            99,
+            103,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001695",
             "PRESSURESTAT 4207119",
@@ -27721,7 +28899,7 @@
             "Rp. 69.300.000"
         ],
         [
-            100,
+            104,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001711",
             "PUSHROD 4902837",
@@ -27731,7 +28909,7 @@
             "Rp. 37.878.528"
         ],
         [
-            101,
+            105,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001717",
             "REPAIR KIT 1319230",
@@ -27741,7 +28919,7 @@
             "Rp. 27.234.900"
         ],
         [
-            102,
+            106,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001722",
             "REPAIR KIT 1340780",
@@ -27751,7 +28929,7 @@
             "Rp. 12.342.464"
         ],
         [
-            103,
+            107,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001725",
             "REPAIR KIT 4297148",
@@ -27761,17 +28939,17 @@
             "Rp. 45.508.992"
         ],
         [
-            104,
+            108,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001742",
             "ROLLER TAPPET 2113804",
             "-",
-            60,
+            72,
             "Rp. 2.564.100",
-            "Rp. 153.846.000"
+            "Rp. 184.615.200"
         ],
         [
-            105,
+            109,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001743",
             "ROLLER TAPPET 4507116",
@@ -27781,7 +28959,7 @@
             "Rp. 41.283.072"
         ],
         [
-            106,
+            110,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001744",
             "ROLLER TAPPET 4914481",
@@ -27791,7 +28969,7 @@
             "Rp. 160.989.696"
         ],
         [
-            107,
+            111,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001772",
             "RUBBER DUST EXCLUD 4909572",
@@ -27801,7 +28979,7 @@
             "Rp. 15.665.664"
         ],
         [
-            108,
+            112,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001773",
             "RUBBER HOSE 1174783",
@@ -27811,7 +28989,7 @@
             "Rp. 307.520"
         ],
         [
-            109,
+            113,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001774",
             "RUBBER HOSE 1178053",
@@ -27821,7 +28999,7 @@
             "Rp. 1.827.264"
         ],
         [
-            110,
+            114,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001786",
             "RUBBER SLEEVE 1183174",
@@ -27831,7 +29009,7 @@
             "Rp. 13.140.032"
         ],
         [
-            111,
+            115,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001805",
             "SAFETY/LOCK.AGENT 1319910",
@@ -27841,7 +29019,7 @@
             "Rp. 124.740.000"
         ],
         [
-            112,
+            116,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001806",
             "SAFETY/LOCK.AGENT 1319911",
@@ -27851,7 +29029,17 @@
             "Rp. 15.881.634"
         ],
         [
-            113,
+            117,
+            "KANTOR REGION KAL2",
+            "MTS-T-AK-03-0001863",
+            "SEALING RING 4175610",
+            "-",
+            12,
+            "Rp. 9.900",
+            "Rp. 118.800"
+        ],
+        [
+            118,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001864",
             "SEALING RING 4211700",
@@ -27861,7 +29049,7 @@
             "Rp. 111.104"
         ],
         [
-            114,
+            119,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001868",
             "SEALING RING 4915380",
@@ -27871,7 +29059,7 @@
             "Rp. 6.366.656"
         ],
         [
-            115,
+            120,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001894",
             "SEALING RUBBER 4915427",
@@ -27881,7 +29069,7 @@
             "Rp. 1.795.520"
         ],
         [
-            116,
+            121,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001930",
             "SHIM 1318882",
@@ -27891,17 +29079,17 @@
             "Rp. 6.771.600"
         ],
         [
-            117,
+            122,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001936",
             "SHIM 4293902",
             "-",
-            144,
+            156,
             "Rp. 118.305",
-            "Rp. 17.035.920"
+            "Rp. 18.455.580"
         ],
         [
-            118,
+            123,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001937",
             "SHUTDOWN DEVICE 2938081",
@@ -27911,7 +29099,7 @@
             "Rp. 52.371.000"
         ],
         [
-            119,
+            124,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001953",
             "SPACER 1318184",
@@ -27921,7 +29109,7 @@
             "Rp. 43.451.100"
         ],
         [
-            120,
+            125,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001965",
             "SPIN-ON FUEL FILT. 1182672",
@@ -27931,7 +29119,7 @@
             "Rp. 12.828.544"
         ],
         [
-            121,
+            126,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001974",
             "SPRING CAP 4250029",
@@ -27941,7 +29129,7 @@
             "Rp. 32.093.184"
         ],
         [
-            122,
+            127,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001990",
             "TACHO-GENERATOR 4210197",
@@ -27951,7 +29139,7 @@
             "Rp. 6.918.208"
         ],
         [
-            123,
+            128,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001997",
             "TAPPET 4251063",
@@ -27961,7 +29149,7 @@
             "Rp. 130.561.200"
         ],
         [
-            124,
+            129,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0001999",
             "TEMPER.TRANSMITTER 1182702",
@@ -27971,7 +29159,7 @@
             "Rp. 36.451.800"
         ],
         [
-            125,
+            130,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002001",
             "TEMPER.TRANSMITTER 4210196",
@@ -27981,7 +29169,7 @@
             "Rp. 4.944.128"
         ],
         [
-            126,
+            131,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002009",
             "THERMOSTAT 4204796",
@@ -27991,7 +29179,7 @@
             "Rp. 14.751.000"
         ],
         [
-            127,
+            132,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002012",
             "THERMOSTAT 4911831",
@@ -28001,7 +29189,7 @@
             "Rp. 15.391.872"
         ],
         [
-            128,
+            133,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002019",
             "THRUST BOLT 1318183",
@@ -28011,17 +29199,17 @@
             "Rp. 85.773.600"
         ],
         [
-            129,
+            134,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002024",
             "THRUST WASHER 2931881",
             "-",
-            36,
+            40,
             "Rp. 689.440",
-            "Rp. 22.286.120"
+            "Rp. 24.681.920"
         ],
         [
-            130,
+            135,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002034",
             "TURBOCHARGER 4904822",
@@ -28031,27 +29219,27 @@
             "Rp. 414.399.072"
         ],
         [
-            131,
+            136,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002040",
             "VALV.SPRING RETAIN 4200114",
             "-",
-            180,
+            204,
             "Rp. 289.575",
-            "Rp. 52.123.500"
+            "Rp. 59.073.300"
         ],
         [
-            132,
+            137,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002044",
             "VALVE COLLET 12164698",
             "-",
-            468,
+            516,
             "Rp. 79.695",
-            "Rp. 37.297.260"
+            "Rp. 41.122.620"
         ],
         [
-            133,
+            138,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002045",
             "VALVE COLLET 2108102",
@@ -28061,17 +29249,17 @@
             "Rp. 8.380.416"
         ],
         [
-            134,
+            139,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002060",
             "VALVE GUIDE 4201238",
             "-",
-            288,
+            312,
             "Rp. 277.695",
-            "Rp. 79.976.160"
+            "Rp. 86.640.840"
         ],
         [
-            135,
+            140,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002063",
             "VALVE GUIDE 4915285",
@@ -28081,27 +29269,27 @@
             "Rp. 27.807.744"
         ],
         [
-            136,
+            141,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002087",
             "VALVE SEAT INSERT 4252442",
             "-",
-            144,
+            156,
             "Rp. 334.125",
-            "Rp. 48.114.000"
+            "Rp. 52.123.500"
         ],
         [
-            137,
+            142,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002088",
             "VALVE SEAT INSERT 4252443",
             "-",
-            144,
+            156,
             "Rp. 334.125",
-            "Rp. 48.114.000"
+            "Rp. 52.123.500"
         ],
         [
-            138,
+            143,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002089",
             "VALVE SEAT INSERT 4900636",
@@ -28111,7 +29299,7 @@
             "Rp. 21.046.272"
         ],
         [
-            139,
+            144,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002090",
             "VALVE SEAT INSERT 4905938",
@@ -28121,7 +29309,7 @@
             "Rp. 48.092.160"
         ],
         [
-            140,
+            145,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002097",
             "VALVE STEM SEAL 4153728",
@@ -28131,7 +29319,7 @@
             "Rp. 7.332.864"
         ],
         [
-            141,
+            146,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002317",
             "V-ribbed belt (01183416)",
@@ -28141,7 +29329,7 @@
             "Rp. 10.497.344"
         ],
         [
-            142,
+            147,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002321",
             "V- Belt 51.96820-0296",
@@ -28151,7 +29339,7 @@
             "Rp. 2.357.000"
         ],
         [
-            143,
+            148,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002433",
             "Injection Nozzle 51.10102-0231",
@@ -28161,7 +29349,7 @@
             "Rp. 12.804.000"
         ],
         [
-            144,
+            149,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002434",
             "Seal Double 6,2X11X1-CU 51.96501-0348",
@@ -28171,7 +29359,7 @@
             "Rp. 2.376.000"
         ],
         [
-            145,
+            150,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002439",
             "Seal Valve Stem D25/D28-Motore 51.04902-0028",
@@ -28181,7 +29369,7 @@
             "Rp. 9.996.000"
         ],
         [
-            146,
+            151,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002466",
             "INJECTOR 04902525",
@@ -28191,7 +29379,7 @@
             "Rp. 540.715.392"
         ],
         [
-            147,
+            152,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002594",
             "General Overhaul Gasket D2842 LE201 51.00900-6633",
@@ -28201,7 +29389,7 @@
             "Rp. 104.010.000"
         ],
         [
-            148,
+            153,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002595",
             "Radial Shaft Seal 51.01510-6004",
@@ -28211,7 +29399,7 @@
             "Rp. 3.832.000"
         ],
         [
-            149,
+            154,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002596",
             "Race Diameter 51.02130-0032",
@@ -28221,7 +29409,7 @@
             "Rp. 4.732.400"
         ],
         [
-            150,
+            155,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002597",
             "Thrust Bearing Normal 51.01114-6085",
@@ -28231,7 +29419,7 @@
             "Rp. 12.263.600"
         ],
         [
-            151,
+            156,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002598",
             "Main Bearing Normal 51.01110-6528",
@@ -28241,7 +29429,7 @@
             "Rp. 8.449.000"
         ],
         [
-            152,
+            157,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002599",
             "Conrod Bearing Normal 51.02410-6488",
@@ -28251,7 +29439,7 @@
             "Rp. 47.289.000"
         ],
         [
-            153,
+            158,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002600",
             "Valve Seat Ring Normal In 51.03203-0293",
@@ -28261,7 +29449,7 @@
             "Rp. 8.996.400"
         ],
         [
-            154,
+            159,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002601",
             "Valve Seat Ring 53,11 51.03203-0184",
@@ -28271,7 +29459,7 @@
             "Rp. 14.996.400"
         ],
         [
-            155,
+            160,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002602",
             "Exhaust Valve 51.04101-0501",
@@ -28281,7 +29469,7 @@
             "Rp. 89.978.400"
         ],
         [
-            156,
+            161,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002603",
             "Intake Valve 51.04101-0509",
@@ -28291,7 +29479,7 @@
             "Rp. 85.184.400"
         ],
         [
-            157,
+            162,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002604",
             "Valve Guide Normal 51.03201-0088",
@@ -28301,7 +29489,7 @@
             "Rp. 29.035.200"
         ],
         [
-            158,
+            163,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002605",
             "Valve Guide Normal 51.03201-0102",
@@ -28311,7 +29499,7 @@
             "Rp. 20.519.400"
         ],
         [
-            159,
+            164,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002606",
             "Valve Cotter 51.04104-0026",
@@ -28321,7 +29509,7 @@
             "Rp. 11.440.800"
         ],
         [
-            160,
+            165,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002607",
             "Fuel Filter 51.12503-0099",
@@ -28331,7 +29519,7 @@
             "Rp. 4.798.080"
         ],
         [
-            161,
+            166,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002608",
             "Water Pump Repair Kit 51.06599-6025",
@@ -28341,7 +29529,7 @@
             "Rp. 15.246.000"
         ],
         [
-            162,
+            167,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002609",
             "Turbocharger 51.09100-7466",
@@ -28351,7 +29539,7 @@
             "Rp. 119.742.000"
         ],
         [
-            163,
+            168,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002610",
             "Stud M 10 x 30-SD-HOCHWARMFEST 51.90201-0254",
@@ -28361,7 +29549,7 @@
             "Rp. 3.298.680"
         ],
         [
-            164,
+            169,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002611",
             "Nozzle Cap Nut 81.10109-0031",
@@ -28371,7 +29559,7 @@
             "Rp. 30.628.800"
         ],
         [
-            165,
+            170,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002613",
             "V-Belt 2-3VX483 | 2-3VX1226 51.96820-0277",
@@ -28381,7 +29569,7 @@
             "Rp. 2.223.400"
         ],
         [
-            166,
+            171,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002614",
             "V-Belt 2-3VX495 | 2-3VX1257 51.96820-0275",
@@ -28391,7 +29579,7 @@
             "Rp. 2.350.400"
         ],
         [
-            167,
+            172,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002615",
             "Cylinder Liner 51.01201-0467",
@@ -28401,7 +29589,7 @@
             "Rp. 159.834.400"
         ],
         [
-            168,
+            173,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002616",
             "Injection Nozzle 6-Hole 51.10102-0235",
@@ -28411,7 +29599,7 @@
             "Rp. 33.991.200"
         ],
         [
-            169,
+            174,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002617",
             "Seal 9,5 x 20 x 1-CU 51.98701-0065",
@@ -28421,7 +29609,7 @@
             "Rp. 2.565.000"
         ],
         [
-            170,
+            175,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002618",
             "Shim 1,0 mm 81.11308-0019",
@@ -28431,7 +29619,7 @@
             "Rp. 1.188.000"
         ],
         [
-            171,
+            176,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002619",
             "Shim 1,5 mm 81.11308-0029",
@@ -28441,7 +29629,7 @@
             "Rp. 1.188.000"
         ],
         [
-            172,
+            177,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002620",
             "Ball Bearing 37 x 74 x 45-AD 51.93410-0119",
@@ -28451,7 +29639,7 @@
             "Rp. 13.998.800"
         ],
         [
-            173,
+            178,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002621",
             "Fan Bearing 51.93410-0117",
@@ -28461,7 +29649,7 @@
             "Rp. 8.165.400"
         ],
         [
-            174,
+            179,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002622",
             "Elongating Hex Collar Bolt 51.90020-0355",
@@ -28471,7 +29659,7 @@
             "Rp. 5.628.000"
         ],
         [
-            175,
+            180,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002623",
             "Seal A14 x 20-CU 06.56190-0706",
@@ -28481,7 +29669,7 @@
             "Rp. 2.456.400"
         ],
         [
-            176,
+            181,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002624",
             "Seal A8 x 14-CU 06.56180-0712",
@@ -28491,7 +29679,7 @@
             "Rp. 175.600"
         ],
         [
-            177,
+            182,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002625",
             "Cooling Water Thermpstat 79 51.06402-0061",
@@ -28501,7 +29689,7 @@
             "Rp. 5.317.000"
         ],
         [
-            178,
+            183,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002626",
             "Filler Cap 82.06110-0002",
@@ -28511,7 +29699,7 @@
             "Rp. 1.256.300"
         ],
         [
-            179,
+            184,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002627",
             "Filler Cap 51.97141-0016",
@@ -28521,7 +29709,7 @@
             "Rp. 707.700"
         ],
         [
-            180,
+            185,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002629",
             "Oil Pressure Sender 50.27421-0051",
@@ -28531,7 +29719,7 @@
             "Rp. 6.399.000"
         ],
         [
-            181,
+            186,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002630",
             "Temperature Sender 100 GRAD 81.27421-0125",
@@ -28541,7 +29729,7 @@
             "Rp. 3.303.300"
         ],
         [
-            182,
+            187,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002631",
             "External Hex Round Bolt 51.90490-0022",
@@ -28551,7 +29739,7 @@
             "Rp. 4.956.000"
         ],
         [
-            183,
+            188,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002632",
             "External Hex Round Bolt 51.90490-0023",
@@ -28561,7 +29749,7 @@
             "Rp. 7.205.400"
         ],
         [
-            184,
+            189,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002633",
             "External Hex Round Bolt 51.90490-0024",
@@ -28571,7 +29759,7 @@
             "Rp. 1.956.600"
         ],
         [
-            185,
+            190,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002634",
             "External Hex Round Bolt 51.90490-0021",
@@ -28581,7 +29769,7 @@
             "Rp. 3.003.600"
         ],
         [
-            186,
+            191,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002639",
             "Piston Assy 51.02511-7221",
@@ -28591,7 +29779,7 @@
             "Rp. 421.120.000"
         ],
         [
-            187,
+            192,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002640",
             "Water Pump Assy 51.06500-6598",
@@ -28601,7 +29789,7 @@
             "Rp. 66.640.000"
         ],
         [
-            188,
+            193,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002641",
             "Nozzle Holder 51.10100-7383",
@@ -28611,7 +29799,7 @@
             "Rp. 134.640.000"
         ],
         [
-            189,
+            194,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002642",
             "Crankshaft Vibration Damper 51.02201-0107",
@@ -28621,7 +29809,7 @@
             "Rp. 18.066.200"
         ],
         [
-            190,
+            195,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002643",
             "General Overhaul Gasket 51.00900-6634",
@@ -28631,7 +29819,7 @@
             "Rp. 65.682.000"
         ],
         [
-            191,
+            196,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002655",
             "Washer Normal 51.01114-6010",
@@ -28641,7 +29829,7 @@
             "Rp. 3.790.600"
         ],
         [
-            192,
+            197,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002656",
             "Main Bearing Normal 51.01113-6073",
@@ -28651,7 +29839,7 @@
             "Rp. 10.035.200"
         ],
         [
-            193,
+            198,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002657",
             "Conrod Bearing 51.02410-6626",
@@ -28661,7 +29849,7 @@
             "Rp. 15.796.800"
         ],
         [
-            194,
+            199,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002658",
             "Valve Guide Inlet 51.03201-0108",
@@ -28671,7 +29859,7 @@
             "Rp. 6.721.800"
         ],
         [
-            195,
+            200,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002659",
             "Repair Kit Water Pump 51.06599-6033",
@@ -28681,7 +29869,7 @@
             "Rp. 9.831.000"
         ],
         [
-            196,
+            201,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002660",
             "Diffuser 51.06506-5001",
@@ -28691,7 +29879,7 @@
             "Rp. 5.637.200"
         ],
         [
-            197,
+            202,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002661",
             "Turbocharger 51.09100-7433",
@@ -28701,7 +29889,7 @@
             "Rp. 54.752.300"
         ],
         [
-            198,
+            203,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002662",
             "V-Belt 51.96820-0295",
@@ -28711,7 +29899,7 @@
             "Rp. 2.008.700"
         ],
         [
-            199,
+            204,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002663",
             "Cylinder Liner 51.01201-0468",
@@ -28721,7 +29909,7 @@
             "Rp. 36.990.000"
         ],
         [
-            200,
+            205,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002664",
             "Bolt Flywheel 51.90020-0298",
@@ -28731,7 +29919,7 @@
             "Rp. 3.963.000"
         ],
         [
-            201,
+            206,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002665",
             "Tutup Radiator Besar 81.06110-0002",
@@ -28741,7 +29929,7 @@
             "Rp. 2.284.200"
         ],
         [
-            202,
+            207,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002666",
             "Manual Hand Pump 51.12150-7002",
@@ -28751,7 +29939,7 @@
             "Rp. 528.200"
         ],
         [
-            203,
+            208,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002667",
             "Switch Temperature 51.27420-0074",
@@ -28761,7 +29949,7 @@
             "Rp. 2.832.200"
         ],
         [
-            204,
+            209,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002668",
             "Piston Assy 51.02511-7216",
@@ -28771,7 +29959,7 @@
             "Rp. 135.240.000"
         ],
         [
-            205,
+            210,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002671",
             "Vibration Damper 51.02201-0081",
@@ -28781,7 +29969,7 @@
             "Rp. 17.052.600"
         ],
         [
-            206,
+            211,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0002672",
             "Water Pump Assy 51.0650-06492",
@@ -28791,7 +29979,7 @@
             "Rp. 25.030.000"
         ],
         [
-            207,
+            212,
             "KANTOR REGION KAL2",
             "MTS-T-AK-03-0004418",
             "PUSHROD 04505262",
@@ -28801,7 +29989,7 @@
             "Rp. 40.986.000"
         ],
         [
-            208,
+            213,
             "KANTOR REGION KAL2",
             "MTS-T-AK-10-0005915",
             "Protective Gloves",
@@ -28811,7 +29999,7 @@
             "Rp. 115.700.000"
         ],
         [
-            209,
+            214,
             "KANTOR REGION KAL2",
             "MTS-T-AK-10-0010452",
             "Helm Safety",
@@ -28821,7 +30009,7 @@
             "Rp. 129.760.000"
         ],
         [
-            210,
+            215,
             "KANTOR REGION KAL2",
             "MTS-T-K3-19-000208",
             "Sepatu Safety Boot Cut (S1)",
@@ -28831,7 +30019,7 @@
             "Rp. 174.662.640"
         ],
         [
-            211,
+            216,
             "KANTOR REGION KAL2",
             "ROW",
             "ROW",
@@ -28841,7 +30029,7 @@
             "Rp. 4.057.008.750"
         ],
         [
-            212,
+            217,
             "KANTOR REGION KAL2",
             "SEWAKEND_BPP_A",
             "Sewa Kend BPP _ Afiliasi",
@@ -28856,9 +30044,9 @@
             "",
             "",
             "",
-            45.47,
+            45.864,
             "",
-            "Rp. 14.484.094.187"
+            "Rp. 14.795.581.847"
         ],
         [
             "",
@@ -29016,9 +30204,9 @@
             "",
             "",
             "",
-            85.612,
+            86.006,
             "",
-            "Rp. 22.449.760.954"
+            "Rp. 22.761.248.614"
         ],
         [
             "",
