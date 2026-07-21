@@ -24,6 +24,39 @@
         ],
         [
             1,
+            "1674.KR/SERAGAM KERJA-KAL2/2026",
+            "TAKON UNIFORM PRODUCTION, PT",
+            "K3LH",
+            "2026-07-20",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-"
+        ],
+        [
+            2,
+            "1722.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
+            "ANANDA DAYA LANCAR, PT",
+            "TRANSMISI DAN GARDU INDUK",
+            "2026-07-20",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-"
+        ],
+        [
+            3,
+            "1813.KR/TANGGA-KAL2/2026",
+            "ALVARO PRIMA SEJAHTERA, PT",
+            "DISTRIBUSI",
+            "2026-07-20",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-"
+        ],
+        [
+            4,
             "1678.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "DISTRIBUSI",
@@ -34,7 +67,7 @@
             "-"
         ],
         [
-            2,
+            5,
             "1679.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "DISTRIBUSI",
@@ -45,7 +78,7 @@
             "-"
         ],
         [
-            3,
+            6,
             "1680.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "DISTRIBUSI",
@@ -56,7 +89,7 @@
             "-"
         ],
         [
-            4,
+            7,
             "1424.KR/SEPATU SAFETY JOGGER-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "PEMBANGKITAN",
@@ -67,7 +100,7 @@
             "-"
         ],
         [
-            5,
+            8,
             "1694.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -78,7 +111,7 @@
             "-"
         ],
         [
-            6,
+            9,
             "1516.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -89,7 +122,7 @@
             "-"
         ],
         [
-            7,
+            10,
             "1517.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -100,7 +133,7 @@
             "-"
         ],
         [
-            8,
+            11,
             "1518.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -111,7 +144,7 @@
             "-"
         ],
         [
-            9,
+            12,
             "1519.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -122,7 +155,7 @@
             "-"
         ],
         [
-            10,
+            13,
             "1520.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -133,7 +166,7 @@
             "-"
         ],
         [
-            11,
+            14,
             "1675.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -144,7 +177,7 @@
             "-"
         ],
         [
-            12,
+            15,
             "1689.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -155,7 +188,7 @@
             "-"
         ],
         [
-            13,
+            16,
             "1712.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -166,7 +199,7 @@
             "-"
         ],
         [
-            14,
+            17,
             "1721.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -177,7 +210,7 @@
             "-"
         ],
         [
-            15,
+            18,
             "1423.KR/SEPATU SAFETY-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "PEMBANGKITAN",
@@ -188,7 +221,7 @@
             "-"
         ],
         [
-            16,
+            19,
             "1227.KR/LAYANAN INTERNET SATELITE-KAL2/2026",
             "TEKNIKA PESONA KAHAYAN, PT.",
             "PEMBANGKITAN",
@@ -199,7 +232,7 @@
             "-"
         ],
         [
-            17,
+            20,
             "1403.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -210,7 +243,7 @@
             "-"
         ],
         [
-            18,
+            21,
             "1410.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -221,7 +254,7 @@
             "-"
         ],
         [
-            19,
+            22,
             "1411.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -232,7 +265,7 @@
             "-"
         ],
         [
-            20,
+            23,
             "1412.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -243,7 +276,7 @@
             "-"
         ],
         [
-            21,
+            24,
             "1413.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -254,7 +287,7 @@
             "-"
         ],
         [
-            22,
+            25,
             "1383.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -265,7 +298,7 @@
             "-"
         ],
         [
-            23,
+            26,
             "1320.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "HUTAMA JAYA PERKASA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -276,7 +309,7 @@
             "-"
         ],
         [
-            24,
+            27,
             "1321.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "HUTAMA JAYA PERKASA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -287,7 +320,7 @@
             "-"
         ],
         [
-            25,
+            28,
             "1322.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "HUTAMA JAYA PERKASA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -298,7 +331,7 @@
             "-"
         ],
         [
-            26,
+            29,
             "1323.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "HUTAMA JAYA PERKASA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -309,7 +342,7 @@
             "-"
         ],
         [
-            27,
+            30,
             "1324.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "HUTAMA JAYA PERKASA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -320,18 +353,18 @@
             "-"
         ],
         [
-            28,
+            31,
             "1169.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
             "2026-06-05",
             "2026-06-18",
-            "-",
+            "2026-07-20",
             "Acc Vendor",
             "-"
         ],
         [
-            29,
+            32,
             "1319.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -342,7 +375,7 @@
             "-"
         ],
         [
-            30,
+            33,
             "1211.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -353,7 +386,7 @@
             "-"
         ],
         [
-            31,
+            34,
             "1212.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -364,7 +397,7 @@
             "-"
         ],
         [
-            32,
+            35,
             "1213.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -375,7 +408,7 @@
             "-"
         ],
         [
-            33,
+            36,
             "1214.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -386,7 +419,7 @@
             "-"
         ],
         [
-            34,
+            37,
             "1215.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -397,7 +430,7 @@
             "-"
         ],
         [
-            35,
+            38,
             "983.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -408,7 +441,7 @@
             "-"
         ],
         [
-            36,
+            39,
             "984.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -419,7 +452,7 @@
             "-"
         ],
         [
-            37,
+            40,
             "1013.KR/SERAGAM KERJA-KAL2/2026",
             "ZAIN PERKASA INDONESIA, PT",
             "PEMBANGKITAN",
@@ -430,7 +463,7 @@
             "-"
         ],
         [
-            38,
+            41,
             "1145.KR/TANGGA-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -441,7 +474,7 @@
             "-"
         ],
         [
-            39,
+            42,
             "1146.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -452,7 +485,7 @@
             "-"
         ],
         [
-            40,
+            43,
             "1154.KR/ALAT UKUR-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -463,7 +496,7 @@
             "-"
         ],
         [
-            41,
+            44,
             "1147.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -474,7 +507,7 @@
             "-"
         ],
         [
-            42,
+            45,
             "1067.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -485,7 +518,7 @@
             "-"
         ],
         [
-            43,
+            46,
             "1079.KR/STICK 20 KV-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -496,7 +529,7 @@
             "-"
         ],
         [
-            44,
+            47,
             "1072.KR/STICK 20 KV-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -507,7 +540,7 @@
             "-"
         ],
         [
-            45,
+            48,
             "664.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -518,7 +551,7 @@
             "-"
         ],
         [
-            46,
+            49,
             "861.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -529,7 +562,7 @@
             "-"
         ],
         [
-            47,
+            50,
             "862.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -540,7 +573,7 @@
             "-"
         ],
         [
-            48,
+            51,
             "829.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -551,7 +584,7 @@
             "-"
         ],
         [
-            49,
+            52,
             "830.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -562,7 +595,7 @@
             "-"
         ],
         [
-            50,
+            53,
             "1030.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -573,7 +606,7 @@
             "-"
         ],
         [
-            51,
+            54,
             "1029.KR/ALAT UKUR-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -584,7 +617,7 @@
             "-"
         ],
         [
-            52,
+            55,
             "940.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "PELAYANAN PELANGGAN",
@@ -595,7 +628,7 @@
             "-"
         ],
         [
-            53,
+            56,
             "939.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -606,7 +639,7 @@
             "-"
         ],
         [
-            54,
+            57,
             "938.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "PELAYANAN PELANGGAN",
@@ -617,7 +650,7 @@
             "-"
         ],
         [
-            55,
+            58,
             "941.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -628,7 +661,7 @@
             "-"
         ],
         [
-            56,
+            59,
             "942.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -639,7 +672,7 @@
             "-"
         ],
         [
-            57,
+            60,
             "943.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -650,7 +683,7 @@
             "-"
         ],
         [
-            58,
+            61,
             "944.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -661,7 +694,7 @@
             "-"
         ],
         [
-            59,
+            62,
             "945.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -672,7 +705,7 @@
             "-"
         ],
         [
-            60,
+            63,
             "867.KR/TERMOVISION DAN ULTRASOUND-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -683,7 +716,7 @@
             "-"
         ],
         [
-            61,
+            64,
             "906.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -694,7 +727,7 @@
             "-"
         ],
         [
-            62,
+            65,
             "907.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -705,7 +738,7 @@
             "-"
         ],
         [
-            63,
+            66,
             "919.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -716,7 +749,7 @@
             "-"
         ],
         [
-            64,
+            67,
             "920.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -727,7 +760,7 @@
             "-"
         ],
         [
-            65,
+            68,
             "922.KR/SEPATU SAFETY-KAL2/2026",
             "KAWAN LAMA SEJAHTERA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -738,7 +771,7 @@
             "-"
         ],
         [
-            66,
+            69,
             "923.KR/SEPATU SAFETY-KAL2/2026",
             "KAWAN LAMA SEJAHTERA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -749,7 +782,7 @@
             "-"
         ],
         [
-            67,
+            70,
             "863.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -760,7 +793,7 @@
             "-"
         ],
         [
-            68,
+            71,
             "864.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -771,7 +804,7 @@
             "-"
         ],
         [
-            69,
+            72,
             "866.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -782,7 +815,7 @@
             "-"
         ],
         [
-            70,
+            73,
             "887.KR/SEPATU SAFETY-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "PELAYANAN PELANGGAN",
@@ -793,7 +826,7 @@
             "-"
         ],
         [
-            71,
+            74,
             "888.KR/SEPATU SAFETY-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "PELAYANAN PELANGGAN",
@@ -804,7 +837,7 @@
             "-"
         ],
         [
-            72,
+            75,
             "889.KR/SEPATU SAFETY-KAL2/2026",
             "FORZA NIAGA DAYATAMA, PT",
             "PELAYANAN PELANGGAN",
@@ -815,7 +848,7 @@
             "-"
         ],
         [
-            73,
+            76,
             "738.KR/HELM SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -826,7 +859,7 @@
             "-"
         ],
         [
-            74,
+            77,
             "865.KR/STICK 20 KV-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -837,7 +870,7 @@
             "-"
         ],
         [
-            75,
+            78,
             "893.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -848,7 +881,7 @@
             "-"
         ],
         [
-            76,
+            79,
             "894.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -859,7 +892,7 @@
             "-"
         ],
         [
-            77,
+            80,
             "895.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -870,7 +903,7 @@
             "-"
         ],
         [
-            78,
+            81,
             "834.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -881,7 +914,7 @@
             "-"
         ],
         [
-            79,
+            82,
             "835.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -892,7 +925,7 @@
             "-"
         ],
         [
-            80,
+            83,
             "836.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -903,7 +936,7 @@
             "-"
         ],
         [
-            81,
+            84,
             "768.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "PEMBANGKITAN",
@@ -914,7 +947,7 @@
             "-"
         ],
         [
-            82,
+            85,
             "789.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "PEMBANGKITAN",
@@ -925,7 +958,7 @@
             "-"
         ],
         [
-            83,
+            86,
             "734.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -936,7 +969,7 @@
             "-"
         ],
         [
-            84,
+            87,
             "735.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -947,7 +980,7 @@
             "-"
         ],
         [
-            85,
+            88,
             "739.KR/HELM SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -958,7 +991,7 @@
             "-"
         ],
         [
-            86,
+            89,
             "832.KR/HELM SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -969,7 +1002,7 @@
             "-"
         ],
         [
-            87,
+            90,
             "833.KR/HELM SAFETY-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -980,7 +1013,7 @@
             "-"
         ],
         [
-            88,
+            91,
             "737.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -991,7 +1024,7 @@
             "-"
         ],
         [
-            89,
+            92,
             "543.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "DISTRIBUSI",
@@ -1002,7 +1035,7 @@
             "-"
         ],
         [
-            90,
+            93,
             "544.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "DISTRIBUSI",
@@ -1013,7 +1046,7 @@
             "-"
         ],
         [
-            91,
+            94,
             "545.KR/SEWA KENDARAAN-KAL2/2026",
             "JAYACO, PT",
             "DISTRIBUSI",
@@ -1024,7 +1057,7 @@
             "-"
         ],
         [
-            92,
+            95,
             "736.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1035,7 +1068,7 @@
             "-"
         ],
         [
-            93,
+            96,
             "581.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1046,7 +1079,7 @@
             "-"
         ],
         [
-            94,
+            97,
             "590.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1057,7 +1090,7 @@
             "-"
         ],
         [
-            95,
+            98,
             "607.KR/STICK 20 KV-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -1068,7 +1101,7 @@
             "-"
         ],
         [
-            96,
+            99,
             "471.KR/TERMOVISION DAN ULTRASOUND-KAL2/2026",
             "TEKNIKA PESONA KAHAYAN, PT.",
             "DISTRIBUSI",
@@ -1079,7 +1112,7 @@
             "-"
         ],
         [
-            97,
+            100,
             "683.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1090,7 +1123,7 @@
             "-"
         ],
         [
-            98,
+            101,
             "684.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1101,7 +1134,7 @@
             "-"
         ],
         [
-            99,
+            102,
             "685.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1112,7 +1145,7 @@
             "-"
         ],
         [
-            100,
+            103,
             "686.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1123,7 +1156,7 @@
             "-"
         ],
         [
-            101,
+            104,
             "387.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1134,7 +1167,7 @@
             "-"
         ],
         [
-            102,
+            105,
             "513.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1145,7 +1178,7 @@
             "-"
         ],
         [
-            103,
+            106,
             "514.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1156,7 +1189,7 @@
             "-"
         ],
         [
-            104,
+            107,
             "515.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1167,7 +1200,7 @@
             "-"
         ],
         [
-            105,
+            108,
             "248.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1178,7 +1211,7 @@
             "-"
         ],
         [
-            106,
+            109,
             "420.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1189,7 +1222,7 @@
             "-"
         ],
         [
-            107,
+            110,
             "421.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "ETATO BORNEUM SOLUTIONS, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1200,7 +1233,7 @@
             "-"
         ],
         [
-            108,
+            111,
             "441.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -1211,7 +1244,7 @@
             "-"
         ],
         [
-            109,
+            112,
             "324.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "PEMBANGKITAN",
@@ -1222,7 +1255,7 @@
             "-"
         ],
         [
-            110,
+            113,
             "440.KR/TANGGA-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "PEMBANGKITAN",
@@ -1233,7 +1266,7 @@
             "-"
         ],
         [
-            111,
+            114,
             "423.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1244,7 +1277,7 @@
             "-"
         ],
         [
-            112,
+            115,
             "424.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1255,7 +1288,7 @@
             "-"
         ],
         [
-            113,
+            116,
             "425.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1266,7 +1299,7 @@
             "-"
         ],
         [
-            114,
+            117,
             "169.KR/FAST MOVING KAL-2-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -1277,7 +1310,7 @@
             "-"
         ],
         [
-            115,
+            118,
             "172.KR/FAST MOVING KAL-2-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -1288,7 +1321,7 @@
             "-"
         ],
         [
-            116,
+            119,
             "247.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -1299,7 +1332,7 @@
             "-"
         ],
         [
-            117,
+            120,
             "220.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1310,7 +1343,7 @@
             "-"
         ],
         [
-            118,
+            121,
             "035.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1321,7 +1354,7 @@
             "-"
         ],
         [
-            119,
+            122,
             "221.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1332,7 +1365,7 @@
             "-"
         ],
         [
-            120,
+            123,
             "076.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -1343,7 +1376,7 @@
             "-"
         ],
         [
-            121,
+            124,
             "077.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -1354,7 +1387,7 @@
             "-"
         ],
         [
-            122,
+            125,
             "190.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -1365,7 +1398,7 @@
             "-"
         ],
         [
-            123,
+            126,
             "078.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1376,7 +1409,7 @@
             "-"
         ],
         [
-            124,
+            127,
             "079.KR/SERAGAM KERJA-KAL2/2026",
             "TAKON UNIFORM PRODUCTION, PT",
             "DISTRIBUSI",
@@ -1387,7 +1420,7 @@
             "-"
         ],
         [
-            125,
+            128,
             "188.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -1398,7 +1431,7 @@
             "-"
         ],
         [
-            126,
+            129,
             "175.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1409,7 +1442,7 @@
             "-"
         ],
         [
-            127,
+            130,
             "187.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -1420,7 +1453,7 @@
             "-"
         ],
         [
-            128,
+            131,
             "216.KR/ALAT POTONG DAN RABAS-KAL2/2026",
             "TERANG NUSA TJAKRAWALA, PT",
             "DISTRIBUSI",
@@ -1431,7 +1464,7 @@
             "-"
         ],
         [
-            129,
+            132,
             "219.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1442,7 +1475,7 @@
             "-"
         ],
         [
-            130,
+            133,
             "150.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1453,7 +1486,7 @@
             "-"
         ],
         [
-            131,
+            134,
             "092.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1464,7 +1497,7 @@
             "-"
         ],
         [
-            132,
+            135,
             "093.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1475,7 +1508,7 @@
             "-"
         ],
         [
-            133,
+            136,
             "126.KR/STICK 20 KV-KAL2/2026",
             "DANAPATI SENTOSA ABADI, PT",
             "DISTRIBUSI",
@@ -1486,7 +1519,7 @@
             "-"
         ],
         [
-            134,
+            137,
             "128.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1497,7 +1530,7 @@
             "-"
         ],
         [
-            135,
+            138,
             "129.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1508,7 +1541,7 @@
             "-"
         ],
         [
-            136,
+            139,
             "146.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1519,7 +1552,7 @@
             "-"
         ],
         [
-            137,
+            140,
             "147.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1530,7 +1563,7 @@
             "-"
         ],
         [
-            138,
+            141,
             "148.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1541,7 +1574,7 @@
             "-"
         ],
         [
-            139,
+            142,
             "149.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1552,7 +1585,7 @@
             "-"
         ],
         [
-            140,
+            143,
             "150.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1563,7 +1596,7 @@
             "-"
         ],
         [
-            141,
+            144,
             "151.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
@@ -1574,7 +1607,7 @@
             "-"
         ],
         [
-            142,
+            145,
             "189.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1585,7 +1618,7 @@
             "-"
         ],
         [
-            143,
+            146,
             "006.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1596,7 +1629,7 @@
             "-"
         ],
         [
-            144,
+            147,
             "008.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1607,7 +1640,7 @@
             "-"
         ],
         [
-            145,
+            148,
             "034.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1618,7 +1651,7 @@
             "-"
         ],
         [
-            146,
+            149,
             "051.KR/FAST MOVING KAL-2-KAL2/2026",
             "DUTA ENERGI MULIATAMA, PT",
             "DISTRIBUSI",
@@ -1629,7 +1662,7 @@
             "-"
         ],
         [
-            147,
+            150,
             "066.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "ALVARO PRIMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1640,7 +1673,7 @@
             "-"
         ],
         [
-            148,
+            151,
             "037.KR/FAST MOVING KAL-2-KAL2/2026",
             "PUTERA PERSADA JAYA, PT",
             "DISTRIBUSI",
@@ -1651,7 +1684,7 @@
             "-"
         ],
         [
-            149,
+            152,
             "2653.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1662,7 +1695,7 @@
             "-"
         ],
         [
-            150,
+            153,
             "2654.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1673,7 +1706,7 @@
             "-"
         ],
         [
-            151,
+            154,
             "2655.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1684,7 +1717,7 @@
             "-"
         ],
         [
-            152,
+            155,
             "2656.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1695,7 +1728,7 @@
             "-"
         ],
         [
-            153,
+            156,
             "2657.KR/SEPATU SAFETY-KAL2/2025",
             "KAWAN LAMA SEJAHTERA, PT",
             "DISTRIBUSI",
@@ -1706,7 +1739,7 @@
             "-"
         ],
         [
-            154,
+            157,
             "2659.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2025",
             "ANANDA DAYA LANCAR, PT",
             "TRANSMISI DAN GARDU INDUK",
@@ -1717,7 +1750,7 @@
             "-"
         ],
         [
-            155,
+            158,
             "2445.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1728,7 +1761,7 @@
             "-"
         ],
         [
-            156,
+            159,
             "2446.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1739,7 +1772,7 @@
             "-"
         ],
         [
-            157,
+            160,
             "2447.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1750,7 +1783,7 @@
             "-"
         ],
         [
-            158,
+            161,
             "2448.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1761,7 +1794,7 @@
             "-"
         ],
         [
-            159,
+            162,
             "2449.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "SINERGI DAYA PRISMACO, PT",
             "PEMBANGKITAN",
@@ -1772,7 +1805,7 @@
             "-"
         ],
         [
-            160,
+            163,
             "2558.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1783,7 +1816,7 @@
             "-"
         ],
         [
-            161,
+            164,
             "2559.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1794,7 +1827,7 @@
             "-"
         ],
         [
-            162,
+            165,
             "2560.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1805,7 +1838,7 @@
             "-"
         ],
         [
-            163,
+            166,
             "2561.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1816,7 +1849,7 @@
             "-"
         ],
         [
-            164,
+            167,
             "2562.KR/SERAGAM KERJA-KAL2/2025",
             "ZAIN PERKASA INDONESIA, PT",
             "DISTRIBUSI",
@@ -1848,6 +1881,78 @@
         ],
         [
             1,
+            "1674.KR/SERAGAM KERJA-KAL2/2026",
+            "UP KALIMANTAN 2",
+            "TAKON UNIFORM PRODUCTION, PT",
+            "K3LH",
+            "2026-07-20",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-",
+            "AKS-T-K3-10-000745",
+            "Rompi Safety - Stock",
+            "-",
+            230,
+            "Rp. 165.000",
+            "Rp. 37.950.000"
+        ],
+        [
+            2,
+            "1722.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
+            "UP KALIMANTAN 2",
+            "ANANDA DAYA LANCAR, PT",
+            "TRANSMISI DAN GARDU INDUK",
+            "2026-07-20",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-",
+            "ROW",
+            "ROW",
+            "-",
+            2267,
+            "Rp. 116.250",
+            "Rp. 263.538.750"
+        ],
+        [
+            3,
+            "1813.KR/TANGGA-KAL2/2026",
+            "UP KALIMANTAN 2",
+            "ALVARO PRIMA SEJAHTERA, PT",
+            "DISTRIBUSI",
+            "2026-07-20",
+            "-",
+            "-",
+            "Acc Vendor",
+            "-",
+            "AKS-T-AK-19-000230",
+            "Tangga Fiber 12 m",
+            "-",
+            2,
+            "Rp. 10.940.000",
+            "Rp. 21.880.000"
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "AKS-T-AK-19-000231",
+            "Tangga Fiber 9,6 m",
+            "-",
+            8,
+            "Rp. 9.680.000",
+            "Rp. 77.440.000"
+        ],
+        [
+            4,
             "1678.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -1919,7 +2024,7 @@
             "Rp. 22.500.000"
         ],
         [
-            2,
+            5,
             "1679.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -1937,7 +2042,7 @@
             "Rp. 31.500.000"
         ],
         [
-            3,
+            6,
             "1680.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -1955,7 +2060,7 @@
             "Rp. 21.450.000"
         ],
         [
-            4,
+            7,
             "1424.KR/SEPATU SAFETY JOGGER-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -1973,7 +2078,7 @@
             "Rp. 7.350.000"
         ],
         [
-            5,
+            8,
             "1694.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -2009,7 +2114,7 @@
             "Rp. 28.797.750"
         ],
         [
-            6,
+            9,
             "1516.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2027,7 +2132,7 @@
             "Rp. 268.653.750"
         ],
         [
-            7,
+            10,
             "1517.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2045,7 +2150,7 @@
             "Rp. 270.048.750"
         ],
         [
-            8,
+            11,
             "1518.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2063,7 +2168,7 @@
             "Rp. 266.910.000"
         ],
         [
-            9,
+            12,
             "1519.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2081,7 +2186,7 @@
             "Rp. 269.118.750"
         ],
         [
-            10,
+            13,
             "1520.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2099,7 +2204,7 @@
             "Rp. 268.653.750"
         ],
         [
-            11,
+            14,
             "1675.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -2117,7 +2222,7 @@
             "Rp. 96.668.000"
         ],
         [
-            12,
+            15,
             "1689.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -2135,7 +2240,7 @@
             "Rp. 42.140.000"
         ],
         [
-            13,
+            16,
             "1712.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -2207,7 +2312,7 @@
             "Rp. 6.760.000"
         ],
         [
-            14,
+            17,
             "1721.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -2225,7 +2330,7 @@
             "Rp. 255.168.750"
         ],
         [
-            15,
+            18,
             "1423.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -2243,7 +2348,7 @@
             "Rp. 55.040.000"
         ],
         [
-            16,
+            19,
             "1227.KR/LAYANAN INTERNET SATELITE-KAL2/2026",
             "UP KALIMANTAN 2",
             "TEKNIKA PESONA KAHAYAN, PT.",
@@ -2333,7 +2438,7 @@
             "Rp. 5.080.000"
         ],
         [
-            17,
+            20,
             "1403.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2351,7 +2456,7 @@
             "Rp. 254.703.750"
         ],
         [
-            18,
+            21,
             "1410.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2369,7 +2474,7 @@
             "Rp. 188.325.000"
         ],
         [
-            19,
+            22,
             "1411.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2387,7 +2492,7 @@
             "Rp. 249.705.000"
         ],
         [
-            20,
+            23,
             "1412.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2405,7 +2510,7 @@
             "Rp. 242.846.250"
         ],
         [
-            21,
+            24,
             "1413.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -2423,7 +2528,7 @@
             "Rp. 178.443.750"
         ],
         [
-            22,
+            25,
             "1383.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -2441,7 +2546,7 @@
             "Rp. 157.170.000"
         ],
         [
-            23,
+            26,
             "1320.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "HUTAMA JAYA PERKASA, PT",
@@ -2459,7 +2564,7 @@
             "Rp. 266.677.500"
         ],
         [
-            24,
+            27,
             "1321.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "HUTAMA JAYA PERKASA, PT",
@@ -2477,7 +2582,7 @@
             "Rp. 252.727.500"
         ],
         [
-            25,
+            28,
             "1322.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "HUTAMA JAYA PERKASA, PT",
@@ -2495,7 +2600,7 @@
             "Rp. 268.421.250"
         ],
         [
-            26,
+            29,
             "1323.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "HUTAMA JAYA PERKASA, PT",
@@ -2513,7 +2618,7 @@
             "Rp. 239.707.500"
         ],
         [
-            27,
+            30,
             "1324.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "HUTAMA JAYA PERKASA, PT",
@@ -2531,14 +2636,14 @@
             "Rp. 252.378.750"
         ],
         [
-            28,
+            31,
             "1169.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
             "PEMBANGKITAN",
             "2026-06-05",
             "2026-06-18",
-            "-",
+            "2026-07-20",
             "Acc Vendor",
             "-",
             "MTS-T-AK-03-0000966",
@@ -2909,7 +3014,7 @@
             "Rp. 18.042.750"
         ],
         [
-            29,
+            32,
             "1319.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -2927,7 +3032,7 @@
             "Rp. 252.495.000"
         ],
         [
-            30,
+            33,
             "1211.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -2945,7 +3050,7 @@
             "Rp. 133.250.000"
         ],
         [
-            31,
+            34,
             "1212.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -2963,7 +3068,7 @@
             "Rp. 48.650.000"
         ],
         [
-            32,
+            35,
             "1213.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -2981,7 +3086,7 @@
             "Rp. 322.400.000"
         ],
         [
-            33,
+            36,
             "1214.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -2999,7 +3104,7 @@
             "Rp. 196.000.000"
         ],
         [
-            34,
+            37,
             "1215.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -3017,7 +3122,7 @@
             "Rp. 150.500.000"
         ],
         [
-            35,
+            38,
             "983.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -3575,7 +3680,7 @@
             "Rp. 2.004.750"
         ],
         [
-            36,
+            39,
             "984.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -4133,7 +4238,7 @@
             "Rp. 2.004.750"
         ],
         [
-            37,
+            40,
             "1013.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -4151,7 +4256,7 @@
             "Rp. 56.784.000"
         ],
         [
-            38,
+            41,
             "1145.KR/TANGGA-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -4169,7 +4274,7 @@
             "Rp. 58.080.000"
         ],
         [
-            39,
+            42,
             "1146.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -4241,7 +4346,7 @@
             "Rp. 11.250.000"
         ],
         [
-            40,
+            43,
             "1154.KR/ALAT UKUR-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -4259,7 +4364,7 @@
             "Rp. 16.200.000"
         ],
         [
-            41,
+            44,
             "1147.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -4277,7 +4382,7 @@
             "Rp. 36.000.000"
         ],
         [
-            42,
+            45,
             "1067.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -4313,7 +4418,7 @@
             "Rp. 138.133.024"
         ],
         [
-            43,
+            46,
             "1079.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -4385,7 +4490,7 @@
             "Rp. 4.120.000"
         ],
         [
-            44,
+            47,
             "1072.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -4403,7 +4508,7 @@
             "Rp. 107.800.000"
         ],
         [
-            45,
+            48,
             "664.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -4511,7 +4616,7 @@
             "Rp. 7.986.576"
         ],
         [
-            46,
+            49,
             "861.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -4529,7 +4634,7 @@
             "Rp. 115.700.000"
         ],
         [
-            47,
+            50,
             "862.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -4547,7 +4652,7 @@
             "Rp. 7.920.000"
         ],
         [
-            48,
+            51,
             "829.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -5267,7 +5372,7 @@
             "Rp. 18.066.200"
         ],
         [
-            49,
+            52,
             "830.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -6059,7 +6164,7 @@
             "Rp. 25.030.000"
         ],
         [
-            50,
+            53,
             "1030.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -6077,7 +6182,7 @@
             "Rp. 1.470.000"
         ],
         [
-            51,
+            54,
             "1029.KR/ALAT UKUR-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -6095,7 +6200,7 @@
             "Rp. 11.340.000"
         ],
         [
-            52,
+            55,
             "940.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -6131,7 +6236,7 @@
             "Rp. 162.916.000"
         ],
         [
-            53,
+            56,
             "939.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -6167,7 +6272,7 @@
             "Rp. 40.560.000"
         ],
         [
-            54,
+            57,
             "938.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -6203,7 +6308,7 @@
             "Rp. 58.812.000"
         ],
         [
-            55,
+            58,
             "941.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6221,7 +6326,7 @@
             "Rp. 225.408.750"
         ],
         [
-            56,
+            59,
             "942.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6239,7 +6344,7 @@
             "Rp. 161.006.250"
         ],
         [
-            57,
+            60,
             "943.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6257,7 +6362,7 @@
             "Rp. 254.820.000"
         ],
         [
-            58,
+            61,
             "944.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6275,7 +6380,7 @@
             "Rp. 266.677.500"
         ],
         [
-            59,
+            62,
             "945.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6293,7 +6398,7 @@
             "Rp. 59.520.000"
         ],
         [
-            60,
+            63,
             "867.KR/TERMOVISION DAN ULTRASOUND-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -6311,7 +6416,7 @@
             "Rp. 220.450.000"
         ],
         [
-            61,
+            64,
             "906.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -6329,7 +6434,7 @@
             "Rp. 137.900.000"
         ],
         [
-            62,
+            65,
             "907.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -6347,7 +6452,7 @@
             "Rp. 58.800.000"
         ],
         [
-            63,
+            66,
             "919.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -6365,7 +6470,7 @@
             "Rp. 72.210.000"
         ],
         [
-            64,
+            67,
             "920.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -6383,7 +6488,7 @@
             "Rp. 75.115.000"
         ],
         [
-            65,
+            68,
             "922.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -6401,7 +6506,7 @@
             "Rp. 87.093.360"
         ],
         [
-            66,
+            69,
             "923.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -6419,7 +6524,7 @@
             "Rp. 87.569.280"
         ],
         [
-            67,
+            70,
             "863.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -6437,7 +6542,7 @@
             "Rp. 49.000.000"
         ],
         [
-            68,
+            71,
             "864.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -6455,7 +6560,7 @@
             "Rp. 12.600.000"
         ],
         [
-            69,
+            72,
             "866.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -6473,7 +6578,7 @@
             "Rp. 125.125.000"
         ],
         [
-            70,
+            73,
             "887.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -6491,7 +6596,7 @@
             "Rp. 39.219.840"
         ],
         [
-            71,
+            74,
             "888.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -6509,7 +6614,7 @@
             "Rp. 96.266.880"
         ],
         [
-            72,
+            75,
             "889.KR/SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "FORZA NIAGA DAYATAMA, PT",
@@ -6527,7 +6632,7 @@
             "Rp. 26.740.800"
         ],
         [
-            73,
+            76,
             "738.KR/HELM SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -6563,7 +6668,7 @@
             "Rp. 5.580.000"
         ],
         [
-            74,
+            77,
             "865.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -6581,7 +6686,7 @@
             "Rp. 343.000.000"
         ],
         [
-            75,
+            78,
             "893.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6599,7 +6704,7 @@
             "Rp. 254.238.750"
         ],
         [
-            76,
+            79,
             "894.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6617,7 +6722,7 @@
             "Rp. 136.710.000"
         ],
         [
-            77,
+            80,
             "895.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6635,7 +6740,7 @@
             "Rp. 254.936.250"
         ],
         [
-            78,
+            81,
             "834.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6653,7 +6758,7 @@
             "Rp. 247.380.000"
         ],
         [
-            79,
+            82,
             "835.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6671,7 +6776,7 @@
             "Rp. 242.032.500"
         ],
         [
-            80,
+            83,
             "836.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -6689,7 +6794,7 @@
             "Rp. 128.340.000"
         ],
         [
-            81,
+            84,
             "768.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -6743,7 +6848,7 @@
             "Rp. 30.000.000"
         ],
         [
-            82,
+            85,
             "789.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -6761,7 +6866,7 @@
             "Rp. 15.450.847"
         ],
         [
-            83,
+            86,
             "734.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -6779,7 +6884,7 @@
             "Rp. 614.400.000"
         ],
         [
-            84,
+            87,
             "735.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -6797,7 +6902,7 @@
             "Rp. 48.000.000"
         ],
         [
-            85,
+            88,
             "739.KR/HELM SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -6815,7 +6920,7 @@
             "Rp. 29.760.000"
         ],
         [
-            86,
+            89,
             "832.KR/HELM SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -6833,7 +6938,7 @@
             "Rp. 31.860.000"
         ],
         [
-            87,
+            90,
             "833.KR/HELM SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -6851,7 +6956,7 @@
             "Rp. 33.120.000"
         ],
         [
-            88,
+            91,
             "737.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -6887,7 +6992,7 @@
             "Rp. 12.870.000"
         ],
         [
-            89,
+            92,
             "543.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -7049,7 +7154,7 @@
             "Rp. 11.700.000"
         ],
         [
-            90,
+            93,
             "544.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -7211,7 +7316,7 @@
             "Rp. 25.800.000"
         ],
         [
-            91,
+            94,
             "545.KR/SEWA KENDARAAN-KAL2/2026",
             "UP KALIMANTAN 2",
             "JAYACO, PT",
@@ -7391,7 +7496,7 @@
             "Rp. 5.902.774"
         ],
         [
-            92,
+            95,
             "736.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -7409,7 +7514,7 @@
             "Rp. 113.720.310"
         ],
         [
-            93,
+            96,
             "581.KR/SPARE PART MESIN MAN TIPE D2842LE201 DAN TIPE D2866LE201-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -7535,7 +7640,7 @@
             "Rp. 105.280.000"
         ],
         [
-            94,
+            97,
             "590.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -7643,7 +7748,7 @@
             "Rp. 11.257.000"
         ],
         [
-            95,
+            98,
             "607.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -7661,7 +7766,7 @@
             "Rp. 156.800.000"
         ],
         [
-            96,
+            99,
             "471.KR/TERMOVISION DAN ULTRASOUND-KAL2/2026",
             "UP KALIMANTAN 2",
             "TEKNIKA PESONA KAHAYAN, PT.",
@@ -7679,7 +7784,7 @@
             "Rp. 440.900.000"
         ],
         [
-            97,
+            100,
             "683.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -9065,7 +9170,7 @@
             "Rp. 135.178.848"
         ],
         [
-            98,
+            101,
             "684.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -10451,7 +10556,7 @@
             "Rp. 135.178.848"
         ],
         [
-            99,
+            102,
             "685.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -11837,7 +11942,7 @@
             "Rp. 135.178.848"
         ],
         [
-            100,
+            103,
             "686.KR/SPARE PART MESIN DEUTZ TIPE TCD2013L64V-KAL2/2026",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -13223,7 +13328,7 @@
             "Rp. 135.178.848"
         ],
         [
-            101,
+            104,
             "387.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -13331,7 +13436,7 @@
             "Rp. 9.287.250"
         ],
         [
-            102,
+            105,
             "513.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -13349,7 +13454,7 @@
             "Rp. 255.168.750"
         ],
         [
-            103,
+            106,
             "514.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -13367,7 +13472,7 @@
             "Rp. 158.913.750"
         ],
         [
-            104,
+            107,
             "515.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -13385,7 +13490,7 @@
             "Rp. 256.796.250"
         ],
         [
-            105,
+            108,
             "248.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -13403,7 +13508,7 @@
             "Rp. 7.350.000"
         ],
         [
-            106,
+            109,
             "420.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -13421,7 +13526,7 @@
             "Rp. 254.238.750"
         ],
         [
-            107,
+            110,
             "421.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "ETATO BORNEUM SOLUTIONS, PT",
@@ -13439,7 +13544,7 @@
             "Rp. 242.962.500"
         ],
         [
-            108,
+            111,
             "441.KR/ALAT PELINDUNG DIRI-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -13457,7 +13562,7 @@
             "Rp. 48.000.000"
         ],
         [
-            109,
+            112,
             "324.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -13475,7 +13580,7 @@
             "Rp. 88.200.000"
         ],
         [
-            110,
+            113,
             "440.KR/TANGGA-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -13493,7 +13598,7 @@
             "Rp. 67.760.000"
         ],
         [
-            111,
+            114,
             "423.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -13511,7 +13616,7 @@
             "Rp. 252.262.500"
         ],
         [
-            112,
+            115,
             "424.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -13529,7 +13634,7 @@
             "Rp. 203.553.750"
         ],
         [
-            113,
+            116,
             "425.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -13547,7 +13652,7 @@
             "Rp. 88.001.250"
         ],
         [
-            114,
+            117,
             "169.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -13637,7 +13742,7 @@
             "Rp. 5.629.000"
         ],
         [
-            115,
+            118,
             "172.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -13673,7 +13778,7 @@
             "Rp. 9.031.950"
         ],
         [
-            116,
+            119,
             "247.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -13691,7 +13796,7 @@
             "Rp. 21.000.000"
         ],
         [
-            117,
+            120,
             "220.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -13781,7 +13886,7 @@
             "Rp. 5.759.550"
         ],
         [
-            118,
+            121,
             "035.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -13961,7 +14066,7 @@
             "Rp. 1.326.450"
         ],
         [
-            119,
+            122,
             "221.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -14087,7 +14192,7 @@
             "Rp. 15.478.750"
         ],
         [
-            120,
+            123,
             "076.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -14123,7 +14228,7 @@
             "Rp. 283.244.000"
         ],
         [
-            121,
+            124,
             "077.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -14159,7 +14264,7 @@
             "Rp. 140.608.000"
         ],
         [
-            122,
+            125,
             "190.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -14177,7 +14282,7 @@
             "Rp. 127.088.000"
         ],
         [
-            123,
+            126,
             "078.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -14195,7 +14300,7 @@
             "Rp. 145.340.000"
         ],
         [
-            124,
+            127,
             "079.KR/SERAGAM KERJA-KAL2/2026",
             "UP KALIMANTAN 2",
             "TAKON UNIFORM PRODUCTION, PT",
@@ -14213,7 +14318,7 @@
             "Rp. 248.092.000"
         ],
         [
-            125,
+            128,
             "188.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -14231,7 +14336,7 @@
             "Rp. 78.400.000"
         ],
         [
-            126,
+            129,
             "175.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -14339,7 +14444,7 @@
             "Rp. 4.900.000"
         ],
         [
-            127,
+            130,
             "187.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -14357,7 +14462,7 @@
             "Rp. 137.200.000"
         ],
         [
-            128,
+            131,
             "216.KR/ALAT POTONG DAN RABAS-KAL2/2026",
             "UP KALIMANTAN 2",
             "TERANG NUSA TJAKRAWALA, PT",
@@ -14375,7 +14480,7 @@
             "Rp. 32.200.000"
         ],
         [
-            129,
+            132,
             "219.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -14411,7 +14516,7 @@
             "Rp. 92.950.000"
         ],
         [
-            130,
+            133,
             "150.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -15185,7 +15290,7 @@
             "Rp. 2.004.750"
         ],
         [
-            131,
+            134,
             "092.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -15959,7 +16064,7 @@
             "Rp. 2.004.750"
         ],
         [
-            132,
+            135,
             "093.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -16733,7 +16838,7 @@
             "Rp. 2.004.750"
         ],
         [
-            133,
+            136,
             "126.KR/STICK 20 KV-KAL2/2026",
             "UP KALIMANTAN 2",
             "DANAPATI SENTOSA ABADI, PT",
@@ -16751,7 +16856,7 @@
             "Rp. 196.000.000"
         ],
         [
-            134,
+            137,
             "128.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -16841,7 +16946,7 @@
             "Rp. 24.745.000"
         ],
         [
-            135,
+            138,
             "129.KR/SARUNG TANGAN & SEPATU SAFETY-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -16859,7 +16964,7 @@
             "Rp. 2.585.000"
         ],
         [
-            136,
+            139,
             "146.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -17633,7 +17738,7 @@
             "Rp. 2.004.750"
         ],
         [
-            137,
+            140,
             "147.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -18407,7 +18512,7 @@
             "Rp. 2.004.750"
         ],
         [
-            138,
+            141,
             "148.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -19181,7 +19286,7 @@
             "Rp. 2.004.750"
         ],
         [
-            139,
+            142,
             "149.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -19955,7 +20060,7 @@
             "Rp. 2.004.750"
         ],
         [
-            140,
+            143,
             "150.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -20729,7 +20834,7 @@
             "Rp. 2.004.750"
         ],
         [
-            141,
+            144,
             "151.KR/SPARE PART MESIN DEUTZ-KAL2/2026",
             "UP KALIMANTAN 2",
             "MITRA NUSANTARA POWERINDO, PT",
@@ -21503,7 +21608,7 @@
             "Rp. 2.004.750"
         ],
         [
-            142,
+            145,
             "189.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -21557,7 +21662,7 @@
             "Rp. 21.450.000"
         ],
         [
-            143,
+            146,
             "006.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -21629,7 +21734,7 @@
             "Rp. 23.038.200"
         ],
         [
-            144,
+            147,
             "008.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -21719,7 +21824,7 @@
             "Rp. 14.091.699"
         ],
         [
-            145,
+            148,
             "034.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -21737,7 +21842,7 @@
             "Rp. 20.727.030"
         ],
         [
-            146,
+            149,
             "051.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "DUTA ENERGI MULIATAMA, PT",
@@ -21755,7 +21860,7 @@
             "Rp. 56.700.000"
         ],
         [
-            147,
+            150,
             "066.KR/ALAT KERJA AKSESORIS-KAL2/2026",
             "UP KALIMANTAN 2",
             "ALVARO PRIMA SEJAHTERA, PT",
@@ -21809,7 +21914,7 @@
             "Rp. 3.600.000"
         ],
         [
-            148,
+            151,
             "037.KR/FAST MOVING KAL-2-KAL2/2026",
             "UP KALIMANTAN 2",
             "PUTERA PERSADA JAYA, PT",
@@ -21863,7 +21968,7 @@
             "Rp. 15.097.000"
         ],
         [
-            149,
+            152,
             "2653.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -21881,7 +21986,7 @@
             "Rp. 212.737.500"
         ],
         [
-            150,
+            153,
             "2654.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -21899,7 +22004,7 @@
             "Rp. 133.920.000"
         ],
         [
-            151,
+            154,
             "2655.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -21917,7 +22022,7 @@
             "Rp. 66.960.000"
         ],
         [
-            152,
+            155,
             "2656.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -21935,7 +22040,7 @@
             "Rp. 71.842.500"
         ],
         [
-            153,
+            156,
             "2657.KR/SEPATU SAFETY-KAL2/2025",
             "UP KALIMANTAN 2",
             "KAWAN LAMA SEJAHTERA, PT",
@@ -21953,7 +22058,7 @@
             "Rp. 170.190.000"
         ],
         [
-            154,
+            157,
             "2659.KR/PEKERJAAN JASA RIGHT OF WAY (ROW)-KAL2/2025",
             "UP KALIMANTAN 2",
             "ANANDA DAYA LANCAR, PT",
@@ -21971,7 +22076,7 @@
             "Rp. 114.041.250"
         ],
         [
-            155,
+            158,
             "2445.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -23159,7 +23264,7 @@
             "Rp. 8.197.200"
         ],
         [
-            156,
+            159,
             "2446.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -24347,7 +24452,7 @@
             "Rp. 8.197.200"
         ],
         [
-            157,
+            160,
             "2447.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -25535,7 +25640,7 @@
             "Rp. 8.197.200"
         ],
         [
-            158,
+            161,
             "2448.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -26723,7 +26828,7 @@
             "Rp. 8.197.200"
         ],
         [
-            159,
+            162,
             "2449.KR/SPARE PART MESIN DEUTZ-KAL2/2025",
             "UP KALIMANTAN 2",
             "SINERGI DAYA PRISMACO, PT",
@@ -27911,7 +28016,7 @@
             "Rp. 8.197.200"
         ],
         [
-            160,
+            163,
             "2558.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -27947,7 +28052,7 @@
             "Rp. 213.616.000"
         ],
         [
-            161,
+            164,
             "2559.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -27983,7 +28088,7 @@
             "Rp. 169.676.000"
         ],
         [
-            162,
+            165,
             "2560.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -28019,7 +28124,7 @@
             "Rp. 129.792.000"
         ],
         [
-            163,
+            166,
             "2561.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -28055,7 +28160,7 @@
             "Rp. 64.896.000"
         ],
         [
-            164,
+            167,
             "2562.KR/SERAGAM KERJA-KAL2/2025",
             "UP KALIMANTAN 2",
             "ZAIN PERKASA INDONESIA, PT",
@@ -28106,7 +28211,7 @@
             "",
             "",
             "",
-            "Rp. 28.779.440.559"
+            "Rp. 29.180.249.309"
         ],
         [
             "",
@@ -28145,7 +28250,7 @@
             ""
         ],
         [
-            "- Total Kontrak Rinci (KR): 164 KR",
+            "- Total Kontrak Rinci (KR): 167 KR",
             "",
             "",
             "",
@@ -28163,7 +28268,7 @@
             ""
         ],
         [
-            "- Total Baris Item: 1458 item",
+            "- Total Baris Item: 1462 item",
             "",
             "",
             "",
@@ -28765,15 +28870,25 @@
         [
             4,
             "AREA KUALA KAPUAS",
-            "AKS-T-AK-19-000231",
-            "Tangga Fiber 9,6 m",
+            "AKS-T-AK-19-000230",
+            "Tangga Fiber 12 m",
             "-",
-            6,
-            "Rp. 9.680.000",
-            "Rp. 58.080.000"
+            2,
+            "Rp. 10.940.000",
+            "Rp. 21.880.000"
         ],
         [
             5,
+            "AREA KUALA KAPUAS",
+            "AKS-T-AK-19-000231",
+            "Tangga Fiber 9,6 m",
+            "-",
+            14,
+            "Rp. 9.680.000",
+            "Rp. 135.520.000"
+        ],
+        [
+            6,
             "AREA KUALA KAPUAS",
             "AKS-T-AK-19-000244",
             "Telescopic Hotstick 20 KV",
@@ -28783,7 +28898,7 @@
             "Rp. 245.000.000"
         ],
         [
-            6,
+            7,
             "AREA KUALA KAPUAS",
             "AKS-T-AK-19-000255",
             "Tool Set Mobil",
@@ -28793,7 +28908,7 @@
             "Rp. 7.000.000"
         ],
         [
-            7,
+            8,
             "AREA KUALA KAPUAS",
             "AKS-T-AK-19-000256",
             "Tool Set Motor",
@@ -28803,7 +28918,7 @@
             "Rp. 44.480.000"
         ],
         [
-            8,
+            9,
             "AREA KUALA KAPUAS",
             "AKS-T-K3-08-000766",
             "SEPATU BOOT",
@@ -28813,7 +28928,7 @@
             "Rp. 2.585.000"
         ],
         [
-            9,
+            10,
             "AREA KUALA KAPUAS",
             "AKS-T-K3-10-000651",
             "SEPATU SAFETY BOOT (S3)",
@@ -28823,7 +28938,7 @@
             "Rp. 272.722.500"
         ],
         [
-            10,
+            11,
             "AREA KUALA KAPUAS",
             "AKS-T-K3-10-000741",
             "Strainging Device/Ratchet Puller 2 ton + comelong 240mm - Stock",
@@ -28833,7 +28948,7 @@
             "Rp. 30.030.000"
         ],
         [
-            11,
+            12,
             "AREA KUALA KAPUAS",
             "AKS-T-K3-10-000745",
             "Rompi Safety - Stock",
@@ -28843,7 +28958,7 @@
             "Rp. 76.636.000"
         ],
         [
-            12,
+            13,
             "AREA KUALA KAPUAS",
             "AKS-T-K3-19-000083",
             "Full Body Harnest dan Lock Lanyard",
@@ -28853,7 +28968,7 @@
             "Rp. 650.400.000"
         ],
         [
-            13,
+            14,
             "AREA KUALA KAPUAS",
             "AKS-T-PK-10-00223",
             "Seragam Distribusi_Stock",
@@ -28863,7 +28978,7 @@
             "Rp. 264.316.000"
         ],
         [
-            14,
+            15,
             "AREA KUALA KAPUAS",
             "AKS-T-PK-19-000094",
             "Gunting Kabel",
@@ -28873,7 +28988,7 @@
             "Rp. 32.625.000"
         ],
         [
-            15,
+            16,
             "AREA KUALA KAPUAS",
             "AKS-T-PK-19-000148",
             "Lampu Sorot",
@@ -28883,7 +28998,7 @@
             "Rp. 3.220.000"
         ],
         [
-            16,
+            17,
             "AREA KUALA KAPUAS",
             "AKS-T-PK-19-000246",
             "Tespen",
@@ -28893,7 +29008,7 @@
             "Rp. 22.725.000"
         ],
         [
-            17,
+            18,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-03-0007572",
             "Palu 5 kg",
@@ -28903,7 +29018,7 @@
             "Rp. 4.900.000"
         ],
         [
-            18,
+            19,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0000502",
             "NH / NT Fuse ; Size 1 ; 200 Ampere",
@@ -28913,7 +29028,7 @@
             "Rp. 5.275.200"
         ],
         [
-            19,
+            20,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0000503",
             "NH / NT Fuse ; Size 1 ; 224 Ampere",
@@ -28923,7 +29038,7 @@
             "Rp. 5.275.200"
         ],
         [
-            20,
+            21,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0000504",
             "NH / NT Fuse ; Size 1 ; 250 Ampere",
@@ -28933,7 +29048,7 @@
             "Rp. 5.275.200"
         ],
         [
-            21,
+            22,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0000506",
             "NH / NT Fuse ; Size 2 ; 300 Ampere",
@@ -28943,7 +29058,7 @@
             "Rp. 2.474.000"
         ],
         [
-            22,
+            23,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0000519",
             "SKAT 5 ( 70 sqmm ) ; L1",
@@ -28953,7 +29068,7 @@
             "Rp. 24.870.500"
         ],
         [
-            23,
+            24,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0000520",
             "SKAT 6 ( 95 sqmm ) ; L1",
@@ -28963,7 +29078,7 @@
             "Rp. 9.031.950"
         ],
         [
-            24,
+            25,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0000553",
             "SAT 5T5 ( 70 sqmm Al - 70 sqmm Cu )",
@@ -28973,7 +29088,7 @@
             "Rp. 5.986.400"
         ],
         [
-            25,
+            26,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0005915",
             "Protective Gloves",
@@ -28983,7 +29098,7 @@
             "Rp. 112.000.000"
         ],
         [
-            26,
+            27,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0007092",
             "Obeng Plus Isolation",
@@ -28993,7 +29108,7 @@
             "Rp. 24.745.000"
         ],
         [
-            27,
+            28,
             "AREA KUALA KAPUAS",
             "MTS-T-AK-10-0007093",
             "Obeng Minus Isolation",
@@ -29003,7 +29118,7 @@
             "Rp. 24.745.000"
         ],
         [
-            28,
+            29,
             "AREA KUALA KAPUAS",
             "MTS-T-K3-19-000207",
             "Sepatu Safety 30 KV (Kelas 3)",
@@ -29013,7 +29128,7 @@
             "Rp. 92.950.000"
         ],
         [
-            29,
+            30,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-10-000694",
             "CCO 5T5 (70/70 sqmm - 70/70 sqmm) - Stock",
@@ -29023,7 +29138,7 @@
             "Rp. 3.019.400"
         ],
         [
-            30,
+            31,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-10-000697",
             "SAA 5T5 (70-70 sqmm AL) - Stock",
@@ -29033,7 +29148,7 @@
             "Rp. 3.377.100"
         ],
         [
-            31,
+            32,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-10-000712",
             "CCO 8T5 (70\\150 Sqmm - 35/70 Sqmm) - Stock",
@@ -29043,7 +29158,7 @@
             "Rp. 2.094.400"
         ],
         [
-            32,
+            33,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-10-000713",
             "CCO 8T8 (70\\150 Sqmm - 70/150 Sqmm) - Stock",
@@ -29053,7 +29168,7 @@
             "Rp. 1.326.450"
         ],
         [
-            33,
+            34,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-17-000271",
             "Fuse Link 3 A-Stok",
@@ -29063,7 +29178,7 @@
             "Rp. 19.198.500"
         ],
         [
-            34,
+            35,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-17-000272",
             "Fuse Link 4 A-Stok",
@@ -29073,7 +29188,7 @@
             "Rp. 11.519.100"
         ],
         [
-            35,
+            36,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-17-000273",
             "Fuse Link 6 A-Stok",
@@ -29083,7 +29198,7 @@
             "Rp. 19.198.500"
         ],
         [
-            36,
+            37,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-17-000274",
             "Fuse Link 8 A-Stok",
@@ -29093,7 +29208,7 @@
             "Rp. 5.759.550"
         ],
         [
-            37,
+            38,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-17-000275",
             "Fuse Link 10 A-Stok",
@@ -29103,7 +29218,7 @@
             "Rp. 15.358.800"
         ],
         [
-            38,
+            39,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-17-000276",
             "Fuse Link 12 A-Stok",
@@ -29113,7 +29228,7 @@
             "Rp. 13.438.950"
         ],
         [
-            39,
+            40,
             "AREA KUALA KAPUAS",
             "MTS-T-PK-17-000279",
             "Fuse Link 25 A-Stok",
@@ -29123,7 +29238,7 @@
             "Rp. 9.287.250"
         ],
         [
-            40,
+            41,
             "AREA KUALA KAPUAS",
             "SEWAKEND_BPP_A",
             "Sewa Kend BPP _ Afiliasi",
@@ -29138,9 +29253,9 @@
             "",
             "",
             "",
-            7.71,
+            7.72,
             "",
-            "Rp. 2.511.209.724"
+            "Rp. 2.610.529.724"
         ],
         [
             "",
@@ -29498,9 +29613,9 @@
             "AKS-T-K3-10-000745",
             "Rompi Safety - Stock",
             "-",
-            62,
+            292,
             "Rp. 165.000",
-            "Rp. 6.746.000"
+            "Rp. 44.696.000"
         ],
         [
             5,
@@ -31668,9 +31783,9 @@
             "ROW",
             "ROW",
             "-",
-            72767,
+            75034,
             "Rp. 116.250",
-            "Rp. 8.459.163.750"
+            "Rp. 8.722.702.500"
         ],
         [
             222,
@@ -31698,9 +31813,9 @@
             "",
             "",
             "",
-            85.512,
+            88.009,
             "",
-            "Rp. 19.696.144.042"
+            "Rp. 19.997.632.792"
         ],
         [
             "",
@@ -31908,9 +32023,9 @@
             "",
             "",
             "",
-            128.426,
+            130.933,
             "",
-            "Rp. 28.779.440.559"
+            "Rp. 29.180.249.309"
         ],
         [
             "",
